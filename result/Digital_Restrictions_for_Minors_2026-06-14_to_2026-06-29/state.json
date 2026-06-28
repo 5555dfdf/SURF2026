@@ -1,0 +1,19 @@
+{
+  "topic_label": "Digital Restrictions for Minors",
+  "topic_slug": "Digital_Restrictions_for_Minors",
+  "search_terms": [
+    "\"social media ban minors\"",
+    "\"gaming restrictions minors\"",
+    "\"screen time policy\"",
+    "\"protect children online\""
+  ],
+  "query": "(\"social media ban minors\" OR \"gaming restrictions minors\" OR \"screen time policy\" OR \"protect children online\") since:2026-06-14 until:2026-06-29 lang:en -is:retweet",
+  "start_date": "2026-06-14",
+  "until_date": "2026-06-29",
+  "csv_path": "C:/Users/Minghao Lin/PycharmProjects/SURF/result\\Digital_Restrictions_for_Minors_2026-06-14_to_2026-06-29\\Digital_Restrictions_for_Minors-2026-06-28_13-16-21_annotation.csv",
+  "cursor": "DAADDAABCgABHL388RXakRMKAAIcrdyfOVYwngAIAAIAAAACCAADAAAAAAgABAAAAAQKAAUcvgboVkAnEAoABhy-BuhWPzywAAA",
+  "page": 5,
+  "saved_count": 100,
+  "completed": true,
+  "active_cookie_index": 0
+}
