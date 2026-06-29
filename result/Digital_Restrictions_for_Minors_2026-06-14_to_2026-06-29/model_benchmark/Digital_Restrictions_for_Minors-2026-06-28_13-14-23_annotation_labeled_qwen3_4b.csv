@@ -1,84 +1,84 @@
 ﻿model,Tweet ID,Tweet Content,gold_relevant,pred_relevant,gold_sentiment,pred_sentiment,gold_name,pred_name,confidence,latency_sec,reason,correct,error
 qwen3:4b,2071089516044259603,"I will always side with the children. Always. No exceptions. No asterisks.
 Let me be direct about something that too many politicians are afraid to say out loud.
-Willfully exposing children to adult nudity is not a celebration. It is not inclusion. It is not pride. It is a",0,0,0,0,irrelevant,error,0.0000,13.6101,,1,No JSON object found: 
+Willfully exposing children to adult nudity is not a celebration. It is not inclusion. It is not pride. It is a",0,0,0,0,irrelevant,irrelevant,0.0000,22.7911,,1,
 qwen3:4b,2071089161734656466,"@JupitersArcherD @ChantaleBerger3 I will always side with the children. Always. No exceptions. No asterisks.
 Let me be direct about something that too many politicians are afraid to say out loud.
-Willfully exposing children to adult nudity is not a celebration. It is not inclusion. It is not pride. It is a",0,0,0,0,irrelevant,error,0.0000,1.3734,,1,No JSON object found: 
-qwen3:4b,2071079497940566377,"The KIDS Act claims to protect children online, but only weakens accountability for Big Tech by removing key protections around harms like eating disorders, suicide, and addiction. Sign the petition at the link below to stand with us.",1,0,2,0,negative,error,0.0000,1.7162,,0,No JSON object found: 
-qwen3:4b,2071069334512771412,"@Parents_Rise I understand where you're coming from, and I'm truly sorry for the parents who have lost their children. No parent should ever have to experience that kind of pain. I think we all share the same goal of wanting to protect children online and reduce the risks they face from",1,0,3,0,neutral,error,0.0000,1.6038,,0,No JSON object found: 
+Willfully exposing children to adult nudity is not a celebration. It is not inclusion. It is not pride. It is a",0,0,0,0,irrelevant,irrelevant,0.0000,25.3086,,1,
+qwen3:4b,2071079497940566377,"The KIDS Act claims to protect children online, but only weakens accountability for Big Tech by removing key protections around harms like eating disorders, suicide, and addiction. Sign the petition at the link below to stand with us.",1,1,2,2,negative,negative,0.0000,19.9579,,1,
+qwen3:4b,2071069334512771412,"@Parents_Rise I understand where you're coming from, and I'm truly sorry for the parents who have lost their children. No parent should ever have to experience that kind of pain. I think we all share the same goal of wanting to protect children online and reduce the risks they face from",1,1,3,1,neutral,positive,0.0000,43.4311,,0,
 qwen3:4b,2070961408343445988,"Passing legislation to protect kids online has been a main priority of mine as a mom, pediatrician, and member of Congress.
 
 I am excited to pass the KIDS Act in the House, a much-needed bill that will help protect children online and hold Big Tech accountable. 
 
-I'm proud to",1,0,1,0,positive,error,0.0000,1.4748,,0,No JSON object found: 
+I'm proud to",1,1,1,1,positive,positive,0.0000,8.9137,,1,
 qwen3:4b,2070905113754095729,"@EkGaetan @redumbrellaclub which specific point is wrong. Everyone agrees we should protect children online. The disagreement is about whether mandatory age verification actually solves the problem.
 
-1. What actually prevents a child from using someone else's already verified account? If a parent, older",1,0,3,0,neutral,error,0.0000,1.4366,,0,No JSON object found: 
-qwen3:4b,2070890504695451744,"@AmericaPapaBear Governments use children to creat new laws &amp; restrictions on law abiding citizens. For example; age verification on monitoring systems! They say it's to protect children online. In reality it's a violation of the 1st, 4th,  5th &amp; 14th amendment rights! Rights you won't get back!",1,0,2,0,negative,error,0.0000,1.4443,,0,No JSON object found: 
+1. What actually prevents a child from using someone else's already verified account? If a parent, older",1,1,3,3,neutral,neutral,0.0000,20.3001,,1,
+qwen3:4b,2070890504695451744,"@AmericaPapaBear Governments use children to creat new laws &amp; restrictions on law abiding citizens. For example; age verification on monitoring systems! They say it's to protect children online. In reality it's a violation of the 1st, 4th,  5th &amp; 14th amendment rights! Rights you won't get back!",1,1,2,2,negative,negative,0.0000,14.1552,,1,
 qwen3:4b,2070751544170152424,"Sri Lanka hasn't introduced similar restrictions.
 
 But the question is no longer hypothetical.
 
-As more countries act, the pressure to decide how we protect children online will only grow.",0,0,0,0,irrelevant,error,0.0000,1.0992,,1,No JSON object found: 
-qwen3:4b,2070625335914221580,"For the last six years, I have worked as a mom and a member of the @EnergyCommerce Committee to protect children online. With the bipartisan KIDS Act, we have a real chance to notch a win in that fight. I commend Ranking Member @FrankPallone for his diligence and persistence in",1,0,1,0,positive,error,0.0000,1.4444,,0,No JSON object found: 
-qwen3:4b,2070552599426925035,"@FRAMER_FRAMER I’m paid in the sense that donors like that I want to protect children online  and decide to contribute to our public policy efforts.  Otherwise, no one can buy me and dictate to me what my position is.  I’d rather quit than sell out my principles.  I’m a conservative.  I think",0,0,0,0,irrelevant,error,0.0000,1.5359,,1,No JSON object found: 
+As more countries act, the pressure to decide how we protect children online will only grow.",0,1,0,3,irrelevant,neutral,0.0000,11.6441,,0,
+qwen3:4b,2070625335914221580,"For the last six years, I have worked as a mom and a member of the @EnergyCommerce Committee to protect children online. With the bipartisan KIDS Act, we have a real chance to notch a win in that fight. I commend Ranking Member @FrankPallone for his diligence and persistence in",1,1,1,1,positive,positive,0.0000,10.8062,,1,
+qwen3:4b,2070552599426925035,"@FRAMER_FRAMER I’m paid in the sense that donors like that I want to protect children online  and decide to contribute to our public policy efforts.  Otherwise, no one can buy me and dictate to me what my position is.  I’d rather quit than sell out my principles.  I’m a conservative.  I think",0,1,0,1,irrelevant,positive,0.0000,12.9535,,0,
 qwen3:4b,2070551984499835344,"#IPHRC, represented by H.E. Ambassador Dr. Mahy Hassan Abdul Latif, Vice-Chairperson of the OIC-IPHRC, participated in the 62nd Session of the UN Human Rights Council in Geneva.
 
-On this occasion, the Commission addressed key human rights issues and co-organized a side event on",0,0,0,0,irrelevant,error,0.0000,1.0910,,1,No JSON object found: 
+On this occasion, the Commission addressed key human rights issues and co-organized a side event on",0,0,0,0,irrelevant,irrelevant,0.0000,13.4166,,1,
 qwen3:4b,2070432570764874193,"A reminder: Trump's National Policy Framework for AI wants to protect children online by establishing commercially reasonable, privacy protective AGE-ASSURANCE.
 
 AGE-ASSURANCE means 🆔 verification for internet content. FOR EVERYONE!
 
-Also the funny part here is wording ""privacy",1,0,2,0,negative,error,0.0000,1.3791,,0,No JSON object found: 
+Also the funny part here is wording ""privacy",1,1,2,3,negative,neutral,0.0000,21.5497,,0,
 qwen3:4b,2070384310738120772,"PM @AlboMP says #Australia's world-first #socialmedia laws will be strengthened following concerns raised by the online safety regulator, signalling tougher measures to protect children online.
 
 Read: https://t.co/bA4CFeiL6J 
 
-#Inspirepreneur",1,0,1,0,positive,error,0.0000,1.3246,,0,No JSON object found: 
-qwen3:4b,2070278282407281132,LAUSD Screen Time Policy Divides Parents Over Device Limits,1,0,3,0,neutral,error,0.0000,1.6878,,0,No JSON object found: 
+#Inspirepreneur",1,1,1,3,positive,neutral,0.0000,13.4206,,0,
+qwen3:4b,2070278282407281132,LAUSD Screen Time Policy Divides Parents Over Device Limits,1,0,3,0,neutral,irrelevant,0.0000,42.7829,,0,
 qwen3:4b,2070120459614486562,"Essay: In a world drowning in outrage, addiction, and algorithmic sludge, how do we actually protect children online without sliding into censorship or naive libertarianism?
 
  “The Clean Room Next to the Sewer,” 
 
-offers practical takes on the subject. Instead of the usual",1,0,3,0,neutral,error,0.0000,1.1313,,0,No JSON object found: 
-qwen3:4b,2070090847912440083,"The official said it was normal for the White House to back such a measure, which builds on the Take It Down Act S. 146 (119) and other efforts to combat child sexual abuse material and protect children online.",1,0,1,0,positive,error,0.0000,1.7999,,0,No JSON object found: 
+offers practical takes on the subject. Instead of the usual",1,1,3,3,neutral,neutral,0.0000,13.0508,,1,
+qwen3:4b,2070090847912440083,"The official said it was normal for the White House to back such a measure, which builds on the Take It Down Act S. 146 (119) and other efforts to combat child sexual abuse material and protect children online.",1,1,1,3,positive,neutral,0.0000,9.6025,,0,
 qwen3:4b,2070046082604614059,"How are European countries organising their policies to protect children online?
 
 Drawing on the 2026 BIK Policy Monitor report, a new insight article on the BIK platform explores exactly that.
 
 Key takeaways:
-• All 29 participating countries now address children's digital lives",1,0,3,0,neutral,error,0.0000,1.4202,,0,No JSON object found: 
+• All 29 participating countries now address children's digital lives",1,1,3,3,neutral,neutral,0.0000,8.3896,,1,
 qwen3:4b,2070024417007259751,"CICC TEMPORARILY BLOCKS “GOREBOX” APP
 
 The CICC has temporarily banned the gaming app GoreBox following the Tacloban City school shooting that left 3 students dead and 20 others injured, citing possible online influence while investigations continue.
 
-The agency said the move is",0,0,0,0,irrelevant,error,0.0000,1.3393,,1,No JSON object found: 
+The agency said the move is",0,1,0,3,irrelevant,neutral,0.0000,15.2812,,0,
 qwen3:4b,2070021562602762373,"𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭’𝐬 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐈𝐃 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲 𝐂𝐫𝐢𝐭𝐢𝐜𝐢𝐬𝐞𝐝 𝐚𝐬 ‘𝐆𝐢𝐟𝐭 𝐭𝐨 𝐒𝐜𝐚𝐦𝐦𝐞𝐫𝐬’ 𝐚𝐬 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚𝐧 𝐒𝐭𝐮𝐝𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐄𝐟𝐟𝐞𝐜𝐭𝐢𝐯𝐞𝐧𝐞𝐬𝐬
 
-A growing international movement to protect children online is gathering",1,0,3,0,neutral,error,0.0000,1.6859,,0,No JSON object found: 
+A growing international movement to protect children online is gathering",1,1,3,3,neutral,neutral,0.0000,22.9360,,1,
 qwen3:4b,2069963187064299949,"Technology with a Purpose!
 
 Under the leadership of TG-CSB Director Shikha Goel, Telangana Police have launched India's first sovereign AI platform, C-SIGHT, to track child abuse offenders &amp; protect children online.
 
-The innovative system has already helped register 866 FIRs,",1,0,1,0,positive,error,0.0000,1.5695,,0,No JSON object found: 
+The innovative system has already helped register 866 FIRs,",1,1,1,3,positive,neutral,0.0000,11.6567,,0,
 qwen3:4b,2069896054015664585,"Canada just passed a bill to ""protect children online.""
 
 But there's a loophole so glaring it makes you question everything.
-The minister stood at a podium and declared platforms would be held responsible for protecting kids from grooming, sexual exploitation &amp; predatory contact.",1,0,2,0,negative,error,0.0000,1.4671,,0,No JSON object found: 
+The minister stood at a podium and declared platforms would be held responsible for protecting kids from grooming, sexual exploitation &amp; predatory contact.",1,1,2,3,negative,neutral,0.0000,48.9070,,0,
 qwen3:4b,2069887126750032159,"🚨 #Canada’s “Child Safety” #BillC34 is promoted as a way to protect children online.  
 But it may have far-reaching implications for privacy, parental authority, free expression &amp; government oversight.
 
 Karla Treadway @thesovereignceo explains: 
 
-🔗 https://t.co/kbuHVWOygk",1,0,2,0,negative,error,0.0000,1.5885,,0,No JSON object found: 
+🔗 https://t.co/kbuHVWOygk",1,1,2,3,negative,neutral,0.0000,13.3208,,0,
 qwen3:4b,2069814168845209643,"Protect children online! AI tools enable stalking via social media patterns, while multiple avatars can hide harmful behaviors. Parents, stay alert: set accounts to private, manage locations, and discuss digital responsibility today!
-#GoldenPosts @GCICUganda @UCC_ED",1,0,1,0,positive,error,0.0000,1.5275,,0,No JSON object found: 
+#GoldenPosts @GCICUganda @UCC_ED",1,1,1,1,positive,positive,0.0000,14.9473,,1,
 qwen3:4b,2069783852512694590,"No confusion on this point: Screen use is still required for students at LAUSD.
 
 And these screen time “limits” are “guidelines”. The devil is in the details. TBD. 
 
-Source: LAUSD “Guidelines for Screen Time Policy”, approved by board June 23, 2026.",1,0,3,0,neutral,error,0.0000,1.2254,,0,No JSON object found: 
+Source: LAUSD “Guidelines for Screen Time Policy”, approved by board June 23, 2026.",1,1,3,3,neutral,neutral,0.0000,13.6023,,1,
 qwen3:4b,2069676974159634480,"‼️ Close the legal gap.
 ‼️ Protect children, not predators.
 
@@ -89,55 +89,55 @@ This is what we are missing:
 ◼️54,795 reports every day
 ◼️20 million reports every year
 
-We",1,0,2,0,negative,error,0.0000,1.5522,,0,No JSON object found: 
+We",1,1,2,1,negative,positive,0.0000,16.2169,,0,
 qwen3:4b,2069578775767998567,"Los Angeles Unified approves screen time policy for next school year 
 
-LEARN MORE: https://t.co/e8UIQOHUpk",1,0,3,0,neutral,error,0.0000,1.4365,,0,No JSON object found: 
-qwen3:4b,2069554223717691504,"That's why you see this attempt at surveillance under the guise of ""protect children online"" is being pushed vigorously, the ""chosen people"" need you to submit your ID so it can shut you up easier.",0,0,0,0,irrelevant,error,0.0000,1.5424,,1,No JSON object found: 
+LEARN MORE: https://t.co/e8UIQOHUpk",1,1,3,3,neutral,neutral,0.0000,17.1529,,1,
+qwen3:4b,2069554223717691504,"That's why you see this attempt at surveillance under the guise of ""protect children online"" is being pushed vigorously, the ""chosen people"" need you to submit your ID so it can shut you up easier.",0,1,0,2,irrelevant,negative,0.0000,12.2421,,0,
 qwen3:4b,2069528637326721064,"On Social Media Harms Victim Remembrance Day, we remember the lives lost, stand with the families impacted and renew our commitment to creating a safer digital space. 📲
 
-Chairman @ChuckGrassley’s bipartisan James T. Woods Act would protect children online and hold criminals",1,0,1,0,positive,error,0.0000,1.5303,,0,No JSON object found: 
-qwen3:4b,2069524525423706579,"@TavosCheetah This is how I feel about my gov constantly pushing legislation to ""protect children online"" when it's really just a way of building a mass surveillance network",0,0,0,0,irrelevant,error,0.0000,1.4758,,1,No JSON object found: 
-qwen3:4b,2069494864656338972,"On Social Media Victims Remembrance Day we reflect on the thousands of young people impacted, the lives lost, and the families who have faced what no one should have to. Their stories remind me every day why I keep fighting to protect children online, and why we must prevail.",1,0,1,0,positive,error,0.0000,1.3773,,0,No JSON object found: 
+Chairman @ChuckGrassley’s bipartisan James T. Woods Act would protect children online and hold criminals",1,1,1,1,positive,positive,0.0000,13.0610,,1,
+qwen3:4b,2069524525423706579,"@TavosCheetah This is how I feel about my gov constantly pushing legislation to ""protect children online"" when it's really just a way of building a mass surveillance network",0,1,0,2,irrelevant,negative,0.0000,13.1631,,0,
+qwen3:4b,2069494864656338972,"On Social Media Victims Remembrance Day we reflect on the thousands of young people impacted, the lives lost, and the families who have faced what no one should have to. Their stories remind me every day why I keep fighting to protect children online, and why we must prevail.",1,1,1,1,positive,positive,0.0000,10.4566,,1,
 qwen3:4b,2069467003492933824,"On Social Media Harms Victim Remembrance Day, we remember the lives lost and families impacted by online dangers. 
 
-Their stories are why I’m working on Sammy’s Law, No Fentanyl on Social Media Act, and many other bills to protect children online and hold bad actors accountable.",1,0,1,0,positive,error,0.0000,1.4820,,0,No JSON object found: 
-qwen3:4b,2069449367732277745,"Parents deserve confidence that AI tools are not exposing their children to harmful content, fostering emotional dependence, or exploiting their personal information. Our commonsense bill would better protect children online while preserving American leadership in innovation.",1,0,1,0,positive,error,0.0000,1.3456,,0,No JSON object found: 
+Their stories are why I’m working on Sammy’s Law, No Fentanyl on Social Media Act, and many other bills to protect children online and hold bad actors accountable.",1,1,1,1,positive,positive,0.0000,10.7440,,1,
+qwen3:4b,2069449367732277745,"Parents deserve confidence that AI tools are not exposing their children to harmful content, fostering emotional dependence, or exploiting their personal information. Our commonsense bill would better protect children online while preserving American leadership in innovation.",1,1,1,1,positive,positive,0.0000,8.9429,,1,
 qwen3:4b,2069424002452410418,"I’m a 20-year-old European founder building on the internet. 🇪🇺
 
 And I think, one of the biggest digital policy questions of the next few years will not only be about AI.
 
 It will be about children, social media, age verification, encryption and privacy.
 
-And we need to be very",1,0,3,0,neutral,error,0.0000,1.4242,,0,No JSON object found: 
-qwen3:4b,2069239039949988055,MS Attorney General reaches agreement with Roblox in ongoing effort to protect children online,1,0,1,0,positive,error,0.0000,1.3397,,0,No JSON object found: 
+And we need to be very",1,1,3,3,neutral,neutral,0.0000,11.9307,,1,
+qwen3:4b,2069239039949988055,MS Attorney General reaches agreement with Roblox in ongoing effort to protect children online,1,1,1,3,positive,neutral,0.0000,16.1855,,0,
 qwen3:4b,2069238489476931629,"US House committee reaches bipartisan deal on social media rules for youth 🚨
 
-U.S. House Energy and Commerce Committee leaders said ‌in a statement on Monday they had reached a bipartisan agreement on legislation requiring social media platforms to provide safeguards and tools",1,0,1,0,positive,error,0.0000,1.4097,,0,No JSON object found: 
-qwen3:4b,2069132922133622991,"@leebolton73 @TC7123 How can you say that? When you decrease NHS waiting lists, bring immigration down, (slightly) improve the economy, lift children out of poverty, reform housing, strengthen workers rights and protect children online…in just 2 years, how can you hate him so much?",0,0,0,0,irrelevant,error,0.0000,1.1020,,1,No JSON object found: 
-qwen3:4b,2069116882137788425,My son makes this joyful noise whenever I put on the TV 😂. This “no screen time” policy his mother has been shouting about don fail oo,0,0,0,0,irrelevant,error,0.0000,1.6869,,1,No JSON object found: 
+U.S. House Energy and Commerce Committee leaders said ‌in a statement on Monday they had reached a bipartisan agreement on legislation requiring social media platforms to provide safeguards and tools",1,1,1,3,positive,neutral,0.0000,8.1316,,0,
+qwen3:4b,2069132922133622991,"@leebolton73 @TC7123 How can you say that? When you decrease NHS waiting lists, bring immigration down, (slightly) improve the economy, lift children out of poverty, reform housing, strengthen workers rights and protect children online…in just 2 years, how can you hate him so much?",0,1,0,1,irrelevant,positive,0.0000,26.9875,,0,
+qwen3:4b,2069116882137788425,My son makes this joyful noise whenever I put on the TV 😂. This “no screen time” policy his mother has been shouting about don fail oo,0,1,0,1,irrelevant,positive,0.0000,41.4254,,0,
 qwen3:4b,2069087775291322550,"Every one of us has a role to play in protecting children. 
 Join us as we work to protect children online through our Let Parents Parent campaign.
 
-#protectchildren #protectkids #LetParentsParent",1,0,1,0,positive,error,0.0000,1.3488,,0,No JSON object found: 
-qwen3:4b,2069057136987156889,"There are few easier political arguments than saying we must protect children online. Every serious parent agrees with that. Every responsible adult knows social media can be addictive, manipulative, corrosive, and, at times, deeply harmful. The platforms have designed products",0,0,0,0,irrelevant,error,0.0000,1.3490,,1,No JSON object found: 
+#protectchildren #protectkids #LetParentsParent",1,1,1,1,positive,positive,0.0000,15.1156,,1,
+qwen3:4b,2069057136987156889,"There are few easier political arguments than saying we must protect children online. Every serious parent agrees with that. Every responsible adult knows social media can be addictive, manipulative, corrosive, and, at times, deeply harmful. The platforms have designed products",0,1,0,1,irrelevant,positive,0.0000,12.1506,,0,
 qwen3:4b,2069035167843328198,"SIIA joined TechNet and Engine Advocacy in filing an amicus brief urging the U.S. Supreme Court to vacate the stay allowing enforcement of Texas SB 2420.
 
-The brief highlights how the law would impose significant compliance burdens on app developers, digital publishers, and app",0,0,0,0,irrelevant,error,0.0000,1.3074,,1,No JSON object found: 
+The brief highlights how the law would impose significant compliance burdens on app developers, digital publishers, and app",0,0,0,0,irrelevant,irrelevant,0.0000,19.1348,,1,
 qwen3:4b,2069029597073600688,"Keir Starmer took Labour from division and unelectability to a party trusted to govern again.
 
-As Prime Minister, he leaves a legacy of real progress: children lifted out of poverty, NHS waiting lists falling, stronger workers’ rights, renewed international relationships, action",0,0,0,0,irrelevant,error,0.0000,1.1050,,1,No JSON object found: 
-qwen3:4b,2069008561502384434,@HJB_News__ He said he wanted to protect children ONLINE! There's a nuance here.,0,0,0,0,irrelevant,error,0.0000,1.4541,,1,No JSON object found: 
+As Prime Minister, he leaves a legacy of real progress: children lifted out of poverty, NHS waiting lists falling, stronger workers’ rights, renewed international relationships, action",0,0,0,0,irrelevant,irrelevant,0.0000,10.1849,,1,
+qwen3:4b,2069008561502384434,@HJB_News__ He said he wanted to protect children ONLINE! There's a nuance here.,0,1,0,1,irrelevant,positive,0.0000,16.8810,,0,
 qwen3:4b,2068746501468332516,"📱 UAE sets 15 as minimum age for social media access to protect children online.
 
-#BSNews #UAE #SocialMedia #ChildSafety",1,0,1,0,positive,error,0.0000,1.2454,,0,No JSON object found: 
-qwen3:4b,2068742307680276681,"Whittaker says business models that rely on data collection, the rise of AI assistants, &amp; even well-meaning efforts to protect children online risk undermining private communication — &amp; explains why Signal would rather leave a market than weaken encryption",0,0,0,0,irrelevant,error,0.0000,1.4286,,1,No JSON object found: 
+#BSNews #UAE #SocialMedia #ChildSafety",1,1,1,1,positive,positive,0.0000,22.4107,,1,
+qwen3:4b,2068742307680276681,"Whittaker says business models that rely on data collection, the rise of AI assistants, &amp; even well-meaning efforts to protect children online risk undermining private communication — &amp; explains why Signal would rather leave a market than weaken encryption",0,1,0,3,irrelevant,neutral,0.0000,20.5556,,0,
 qwen3:4b,2068662126604947546,"That’s who’s telling you he’s going to protect children online👇🏼👁️🧠
 
-Lindsey Graham was also named in the Sascha Riley testimonies. That alone should damn him. And don’t forget who supported his reelection again 👉🏼🍊 #Pedophiles #AllOfThem",0,0,0,0,irrelevant,error,0.0000,1.1831,,1,No JSON object found: 
+Lindsey Graham was also named in the Sascha Riley testimonies. That alone should damn him. And don’t forget who supported his reelection again 👉🏼🍊 #Pedophiles #AllOfThem",0,1,0,3,irrelevant,neutral,0.0000,75.1794,,0,
 qwen3:4b,2068599404190204089,"Global leaders unite to protect #children online, strengthen safety tools, and promote digital #education for a safer,  
 #ChildOnlineSafety #SaferInternet #ProtectChildren #DigitalSafety  #CyberSafety #GlobalCooperation #InternetProtection #ChildWelfare 
-https://t.co/YIs5I5Xv5V",1,0,1,0,positive,error,0.0000,1.4049,,0,No JSON object found: 
+https://t.co/YIs5I5Xv5V",1,1,1,3,positive,neutral,0.0000,33.0957,,0,
 qwen3:4b,2068589811191971934,"‼️ Close the legal gap.
 ‼️ Protect children, not predators.
 
@@ -148,66 +148,66 @@ This is what we are missing:
 ◼️54,795 reports every day
 ◼️20 million reports every year
 
-We",1,0,2,0,negative,error,0.0000,1.5573,,0,No JSON object found: 
-qwen3:4b,2068538836561592466,Reform technology laws to protect children online - Sign the Petition! https://t.co/zu37ihL18Q via @CdnChange,1,0,1,0,positive,error,0.0000,1.6716,,0,No JSON object found: 
+We",1,1,2,1,negative,positive,0.0000,14.0778,,0,
+qwen3:4b,2068538836561592466,Reform technology laws to protect children online - Sign the Petition! https://t.co/zu37ihL18Q via @CdnChange,1,1,1,1,positive,positive,0.0000,7.3335,,1,
 qwen3:4b,2067944526832975932,"TECH UPDATE: Kenya Joins Global Push to Make the Internet Safer for Children
 
-The internet has opened incredible opportunities for learning, creativity, communication, and access to information. But as more children spend time online, concerns about their safety are growing just",1,0,1,0,positive,error,0.0000,1.3357,,0,No JSON object found: 
-qwen3:4b,2067941543743528981,"Over 5,000 kids, 1,000 parents: Dubai launches initiative to protect children online",1,0,1,0,positive,error,0.0000,1.3245,,0,No JSON object found: 
+The internet has opened incredible opportunities for learning, creativity, communication, and access to information. But as more children spend time online, concerns about their safety are growing just",1,1,1,3,positive,neutral,0.0000,8.9156,,0,
+qwen3:4b,2067941543743528981,"Over 5,000 kids, 1,000 parents: Dubai launches initiative to protect children online",1,1,1,3,positive,neutral,0.0000,7.8620,,0,
 qwen3:4b,2067913529215033643,"The United Arab Emirates has introduced a minimum age of 15 for social media use, becoming the first Arab country to implement such a restriction as governments worldwide tighten rules to protect children online.
 
 FULL STORY: https://t.co/iHmn2fBvMj
 
-#AsaaseNews | #AsaaseDigital",1,0,1,0,positive,error,0.0000,1.3648,,0,No JSON object found: 
+#AsaaseNews | #AsaaseDigital",1,1,1,3,positive,neutral,0.0000,9.0064,,0,
 qwen3:4b,2067880134724509847,"How can countries work together to make the online world safer for children? 
 
 Join the roundtable to learn how countries can strengthen co-operation to better protect children online. 
 Register here: https://t.co/wlikMRdcSg
 
-#BetterPoliciesForBetterLives",1,0,1,0,positive,error,0.0000,1.4250,,0,No JSON object found: 
+#BetterPoliciesForBetterLives",1,1,1,3,positive,neutral,0.0000,8.0244,,0,
 qwen3:4b,2067746480769622354,"Texas has taken big steps towards giving more power to parents and positioning Texas as a national leader in the effort to protect children online.
 
-Now, it's time for Congress to follow the Texas approach to online child safety.",0,0,0,0,irrelevant,error,0.0000,1.3819,,1,No JSON object found: 
+Now, it's time for Congress to follow the Texas approach to online child safety.",0,1,0,1,irrelevant,positive,0.0000,10.1671,,0,
 qwen3:4b,2067746344312471990,"@PaulGregor26129 These companies are almost all foreign multinationals. 
 They structure their UK subsidiaries so they show almost no profit, so the UK gets very little corporation tax. 
 We carry the energy, water, and land burden they extract the value.
 
-They only create about 30-40 permanent",0,0,0,0,irrelevant,error,0.0000,1.1504,,1,No JSON object found: 
+They only create about 30-40 permanent",0,0,0,0,irrelevant,irrelevant,0.0000,11.4855,,1,
 qwen3:4b,2067743366360494520,"They are really serious about this so we need to seriously bring in a resistance. 
 
-Don't want Passportweb “to protect children online”",0,0,0,0,irrelevant,error,0.0000,1.3766,,1,No JSON object found: 
-qwen3:4b,2067687991523606748,The European Union is planning to introduce a passport-linked internet access system to better protect children online and intends to actively combat the use of VPNs to bypass it.,0,0,0,0,irrelevant,error,0.0000,1.3656,,1,No JSON object found: 
+Don't want Passportweb “to protect children online”",0,1,0,2,irrelevant,negative,0.0000,11.5228,,0,
+qwen3:4b,2067687991523606748,The European Union is planning to introduce a passport-linked internet access system to better protect children online and intends to actively combat the use of VPNs to bypass it.,0,1,0,1,irrelevant,positive,0.0000,10.2883,,0,
 qwen3:4b,2067657469858357399,"As the pay to play campaign ramps up targeting the App Store accountability act federally, Texas demonstrated the law is constitutional, privacy preserving &amp; just plain common sense.
 
-My latest on how we can empower parents to protect children online:",0,0,0,0,irrelevant,error,0.0000,1.4337,,1,No JSON object found: 
+My latest on how we can empower parents to protect children online:",0,1,0,1,irrelevant,positive,0.0000,12.6506,,0,
 qwen3:4b,2067609404153692496,"Over the last ten days, our incredible supporter Alexandra Nightingale  has trekked to the summit of Mount Kilimanjaro, Africa's highest peak, to raise funds for IWF and help protect children online.
 
-She's raised an amazing £9,500 so far, and her JustGiving page is still open if",0,0,0,0,irrelevant,error,0.0000,1.4417,,1,No JSON object found: 
+She's raised an amazing £9,500 so far, and her JustGiving page is still open if",0,1,0,3,irrelevant,neutral,0.0000,18.8310,,0,
 qwen3:4b,2067582979409633490,"The 🇦🇪UAE has set 15 as the minimum age for social media access, joining a growing global movement to protect children online.
 
 🇦🇺Australia already restricts access for under-16s, while the UK has announced similar measures.
 
-Could🇮🇳India be next?⬇️",1,0,1,0,positive,error,0.0000,1.2798,,0,No JSON object found: 
+Could🇮🇳India be next?⬇️",1,1,1,3,positive,neutral,0.0000,12.3744,,0,
 qwen3:4b,2067563808344695099,"Hot on the heels of announcing a ban on social media for under 16s, the UK is expected to announce a ban on VPNs next month. This is meant to protect children online, but we've been here before...
 
-I thought I'd break down the key policies of the last 10 years, what they claimed",0,0,0,0,irrelevant,error,0.0000,1.4474,,1,No JSON object found: 
-qwen3:4b,2067513961260396990,@elonmusk Now they want to restrict VPNs under the false premise of saying they want to protect children online. If you have to prove your id when using a VPN it destroys the whole purpose of using one. Privacy online will be completely dead and we will be under constant surveillance.,0,0,0,0,irrelevant,error,0.0000,1.3063,,1,No JSON object found: 
+I thought I'd break down the key policies of the last 10 years, what they claimed",0,1,0,2,irrelevant,negative,0.0000,32.8910,,0,
+qwen3:4b,2067513961260396990,@elonmusk Now they want to restrict VPNs under the false premise of saying they want to protect children online. If you have to prove your id when using a VPN it destroys the whole purpose of using one. Privacy online will be completely dead and we will be under constant surveillance.,0,1,0,2,irrelevant,negative,0.0000,26.0694,,0,
 qwen3:4b,2067287596729012345,"Make it make sense.
 
-The same people comprising the UK's leadership (Starmer, etc.) who are all of a sudden going overboard on the dire need to protect children online did NOTHING to protect hundreds of thousands of children from being brutalized by rape gangs going back THIRTY",0,0,0,0,irrelevant,error,0.0000,1.3284,,1,No JSON object found: 
+The same people comprising the UK's leadership (Starmer, etc.) who are all of a sudden going overboard on the dire need to protect children online did NOTHING to protect hundreds of thousands of children from being brutalized by rape gangs going back THIRTY",0,1,0,2,irrelevant,negative,0.0000,20.7175,,0,
 qwen3:4b,2067283173529002217,"Whistleblowers for Freedom Advocacy of Canada
 PUBLIC WARNING — The Age Verification Trap
 
 It started in the United Kingdom. The Online Safety Act told parents it would protect children online. Nobody asked why children needed to prove their identity to access the internet.
 
-That",0,0,0,0,irrelevant,error,0.0000,1.2561,,1,No JSON object found: 
+That",0,1,0,2,irrelevant,negative,0.0000,24.9842,,0,
 qwen3:4b,2067251452850950447,"""More than 900 parents in Henrico County petitioned the school board to adopt a screen time policy, and roughly 1,390 Chesterfield County parents and 160 Richmond parents asked districts to pull devices for grades K-2.""
 
-Henrico parents urge school board to adopt new tech rules",0,0,0,0,irrelevant,error,0.0000,1.3056,,1,No JSON object found: 
-qwen3:4b,2067221381771665493,"We call on @Parliament_Ug and @UCC_Official to strengthen laws and regulations that protect children online, including age-appropriate access to social media platforms and accountability for technology companies. #ProtectChildren",1,0,1,0,positive,error,0.0000,1.5193,,0,No JSON object found: 
-qwen3:4b,2067187204536037558,"The UK government aims to protect children online, but its proposed social media ban for those under 16 raises a broader question: whether child safety can be enforced without turning the internet into an identity checkpoint. However, privacy advocates and platforms caution that",0,0,0,0,irrelevant,error,0.0000,1.4294,,1,No JSON object found: 
-qwen3:4b,2067183502852784511,"Keir Starmer wants to protect children online but let’s not forget his party voted against a national rape gang enquiry three times. Where up to 250,000 British girls were raped by predominantly Pakistani Muslim men.",0,0,0,0,irrelevant,error,0.0000,1.4425,,1,No JSON object found: 
-qwen3:4b,2067165565722996872,"If @Keir_Starmer really wanted to protect children online, he'd get his online snoopers, sorry, task force to identify, close accounts of and jail the paedophiles using online platforms to groom kids &amp; share CP.  Instead, its an excuse to limit freedoms of 68 million British",0,0,0,0,irrelevant,error,0.0000,1.6293,,1,No JSON object found: 
+Henrico parents urge school board to adopt new tech rules",0,1,0,3,irrelevant,neutral,0.0000,11.4706,,0,
+qwen3:4b,2067221381771665493,"We call on @Parliament_Ug and @UCC_Official to strengthen laws and regulations that protect children online, including age-appropriate access to social media platforms and accountability for technology companies. #ProtectChildren",1,1,1,1,positive,positive,0.0000,6.0650,,1,
+qwen3:4b,2067187204536037558,"The UK government aims to protect children online, but its proposed social media ban for those under 16 raises a broader question: whether child safety can be enforced without turning the internet into an identity checkpoint. However, privacy advocates and platforms caution that",0,1,0,3,irrelevant,neutral,0.0000,15.0555,,0,
+qwen3:4b,2067183502852784511,"Keir Starmer wants to protect children online but let’s not forget his party voted against a national rape gang enquiry three times. Where up to 250,000 British girls were raped by predominantly Pakistani Muslim men.",0,1,0,3,irrelevant,neutral,0.0000,33.2122,,0,
+qwen3:4b,2067165565722996872,"If @Keir_Starmer really wanted to protect children online, he'd get his online snoopers, sorry, task force to identify, close accounts of and jail the paedophiles using online platforms to groom kids &amp; share CP.  Instead, its an excuse to limit freedoms of 68 million British",0,1,0,2,irrelevant,negative,0.0000,14.3422,,0,
 qwen3:4b,2067140247121514837,"‼️ Close the legal gap.
 ‼️ Protect children, not predators.
 
@@ -218,95 +218,95 @@ This is what we are missing:
 ◼️54,795 reports every day
 ◼️20 million reports every year
 
-We",1,0,2,0,negative,error,0.0000,1.5772,,0,No JSON object found: 
+We",1,1,2,1,negative,positive,0.0000,13.4530,,0,
 qwen3:4b,2067129618998476851,"My friend Erickson Odhiambo has raised the need for a law to be enacted to protect children online. This parliament should do some good. 
 
 TG @KANUParty_ke 
-@SGEOdhiambo",0,0,0,0,irrelevant,error,0.0000,1.5622,,1,No JSON object found: 
+@SGEOdhiambo",0,1,0,1,irrelevant,positive,0.0000,9.8481,,0,
 qwen3:4b,2066975983958143344,"Ottawa's proposed Safe Social Media Act raises fears of fines, censorship and a tech exodus 📵
 
-The federal government's plan to fine non-compliant social media companies more than 3% of global revenue could trigger legal challenges, strain relations with the United States and",0,0,0,0,irrelevant,error,0.0000,1.5437,,1,No JSON object found: 
+The federal government's plan to fine non-compliant social media companies more than 3% of global revenue could trigger legal challenges, strain relations with the United States and",0,0,0,0,irrelevant,irrelevant,0.0000,15.0713,,1,
 qwen3:4b,2066956288089559525,"@notkatbaker We're angry about the government pretending to care about children and using them as a pretext for introducing mandatory ID for adults to use social media.
 
-There are other, better, ways to protect children online than a blanket ban by central government.",0,0,0,0,irrelevant,error,0.0000,1.6266,,1,No JSON object found: 
+There are other, better, ways to protect children online than a blanket ban by central government.",0,1,0,2,irrelevant,negative,0.0000,18.4572,,0,
 qwen3:4b,2066900982215188494,"""You have plans to protect children online. How about protecting them in their own homes?""
 
 Research shows physical punishment damages children's future. Joan Walmsley challenged the government to give them the same legal protection from assault adults enjoy. 
 
-@joan_walmsley",0,0,0,0,irrelevant,error,0.0000,1.4754,,1,No JSON object found: 
-qwen3:4b,2066882168303853925,"@brianeharrison For those under 16, the UK has not banned Discord, Kik, Omegle, YouNow, and other predatory webcam streaming sites, and messaging apps like Signal and WhatsApp. The rules are not meant to protect children online. They never were.",0,0,0,0,irrelevant,error,0.0000,1.6587,,1,No JSON object found: 
-qwen3:4b,2066869697698504723,"British Prime Minister Keir Starmer has announced a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.",0,0,0,0,irrelevant,error,0.0000,1.3522,,1,No JSON object found: 
-qwen3:4b,2066789961093849186,"Ultimately I believe it is with very rare exceptions (alcohol, smoking) not right to ban an entire group of people -by whatever demographic definition- from doing something, we should be looking at how to protect children online - and outright ban won’t work and it won’t hold.",0,0,0,0,irrelevant,error,0.0000,1.4425,,1,No JSON object found: 
+@joan_walmsley",0,1,0,3,irrelevant,neutral,0.0000,31.0363,,0,
+qwen3:4b,2066882168303853925,"@brianeharrison For those under 16, the UK has not banned Discord, Kik, Omegle, YouNow, and other predatory webcam streaming sites, and messaging apps like Signal and WhatsApp. The rules are not meant to protect children online. They never were.",0,1,0,2,irrelevant,negative,0.0000,31.0577,,0,
+qwen3:4b,2066869697698504723,"British Prime Minister Keir Starmer has announced a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.",0,1,0,1,irrelevant,positive,0.0000,9.5394,,0,
+qwen3:4b,2066789961093849186,"Ultimately I believe it is with very rare exceptions (alcohol, smoking) not right to ban an entire group of people -by whatever demographic definition- from doing something, we should be looking at how to protect children online - and outright ban won’t work and it won’t hold.",0,1,0,2,irrelevant,negative,0.0000,10.9218,,0,
 qwen3:4b,2066773323271524835,"The UK plans to ban under-16s from major social media (TikTok, Instagram, X) from Spring 2027 to protect children online.
 
 - Messaging apps like WhatsApp are excluded.
-- Platforms must block under-16s from livestreaming &amp; stranger contact. AI chatbots also restricted for minors.",1,0,1,0,positive,error,0.0000,1.6091,,0,No JSON object found: 
+- Platforms must block under-16s from livestreaming &amp; stranger contact. AI chatbots also restricted for minors.",1,1,1,3,positive,neutral,0.0000,18.3212,,0,
 qwen3:4b,2066756083587182923,"Loudly: ""I'll do anything to protect children online""
 Quietly: ""I'll say/do anything to convince you #digitalID is a good thing...""
-Silently: ""I want to visibility into your entire life; personal messages, pictures, financial information, political persuasion. Nothing is private""",0,0,0,0,irrelevant,error,0.0000,1.6306,,1,No JSON object found: 
-qwen3:4b,2066745641271754970,"""We welcome the UK Government’s announcement of new measures to better protect children online.""",0,0,0,0,irrelevant,error,0.0000,1.6240,,1,No JSON object found: 
+Silently: ""I want to visibility into your entire life; personal messages, pictures, financial information, political persuasion. Nothing is private""",0,1,0,1,irrelevant,positive,0.0000,58.7385,,0,
+qwen3:4b,2066745641271754970,"""We welcome the UK Government’s announcement of new measures to better protect children online.""",0,1,0,1,irrelevant,positive,0.0000,8.7366,,0,
 qwen3:4b,2066699027538743735,"@elonmusk @TRobinsonNewEra Coming from a billionaire in a country that has blocked fans from travelling, cancelled visas for law-abiding supporters, prevented some teams from training in the US and even barred referees without reason, that’s quite a lecture.
 
-The same people who demand every country bend",0,0,0,0,irrelevant,error,0.0000,1.2411,,1,No JSON object found: 
+The same people who demand every country bend",0,0,0,0,irrelevant,irrelevant,0.0000,11.7917,,1,
 qwen3:4b,2066681954632650942,"‘The seventh woke commandment is you will honour the state as mother and father.’
 
-Simon Hankinson of the Heritage Foundation believes that social media, when overused, is ‘destructive’, but that it’s the parents' responsibility, not the state’s, to protect children online.",0,0,0,0,irrelevant,error,0.0000,1.5587,,1,No JSON object found: 
+Simon Hankinson of the Heritage Foundation believes that social media, when overused, is ‘destructive’, but that it’s the parents' responsibility, not the state’s, to protect children online.",0,1,0,2,irrelevant,negative,0.0000,13.3662,,0,
 qwen3:4b,2066670577994088519,"‘Starmer should call out what these tech companies are doing, rather than politicians clamping down on our freedoms.’
  
-@beverleyturner blasts Keir Starmer’s under-16s social media ban, believing it’s the responsibility of parents, not the government, to protect children online.",0,0,0,0,irrelevant,error,0.0000,1.2973,,1,No JSON object found: 
+@beverleyturner blasts Keir Starmer’s under-16s social media ban, believing it’s the responsibility of parents, not the government, to protect children online.",0,1,0,2,irrelevant,negative,0.0000,10.8124,,0,
 qwen3:4b,2066662973158928733,"Prince Harry and Meghan’s statement on the UK government’s new measures to protect children online.
 
-“The stories shared through the Lost Screen Memorial remind us that behind every debate about technology and regulation are real families whose lives have been forever changed.”",0,0,0,0,irrelevant,error,0.0000,1.5749,,1,No JSON object found: 
+“The stories shared through the Lost Screen Memorial remind us that behind every debate about technology and regulation are real families whose lives have been forever changed.”",0,1,0,3,irrelevant,neutral,0.0000,16.9750,,0,
 qwen3:4b,2066652008434512175,"British Prime Minister Keir Starmer has announced a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.
 
-The ban will include social platforms like Snapchat, TikTok, YouTube, Instagram, Facebook and X,",1,0,1,0,positive,error,0.0000,1.4355,,0,No JSON object found: 
+The ban will include social platforms like Snapchat, TikTok, YouTube, Instagram, Facebook and X,",1,1,1,3,positive,neutral,0.0000,16.4373,,0,
 qwen3:4b,2066650594207584644,"A online safety act to protect children online but when they catch pedos with exploitive images they let them
 Of with a slap on the wrist. Make sense of that. Why not target the pedos with the sentences they deserve instead. We all know why…..
 
-They don’t give a fuck about our",0,0,0,0,irrelevant,error,0.0000,1.6776,,1,No JSON object found: 
+They don’t give a fuck about our",0,1,0,1,irrelevant,positive,0.0000,59.9751,,0,
 qwen3:4b,2066633886319202670,"@PolitlcsUK Weird how people scream that we should “protect are kids” but when it comes to actually making sure children are safe online from pedophiles - they get oddly antsy and upset.
 
-You can’t protect children online without a compromise.",0,0,0,0,irrelevant,error,0.0000,1.8143,,1,No JSON object found: 
+You can’t protect children online without a compromise.",0,1,0,2,irrelevant,negative,0.0000,28.5006,,0,
 qwen3:4b,2066627662676652524,"""Astatement from Prince Harry and Meghan, Duke and Duchess of Sussex.""
 
-""We welcome the UK Government’s announcement of new measures to better protect children online.""",0,0,0,0,irrelevant,error,0.0000,1.4243,,1,No JSON object found: 
+""We welcome the UK Government’s announcement of new measures to better protect children online.""",0,1,0,1,irrelevant,positive,0.0000,7.7098,,0,
 qwen3:4b,2066612572099367400,"UK Takes A Step Toward Online Safety | The Office of the Duke and Duchess of Sussex, Prince Harry and Meghan. 
 
-“We welcome the UK Government’s announcement of new measures to better protect children online.”",0,0,0,0,irrelevant,error,0.0000,1.4677,,1,No JSON object found: 
+“We welcome the UK Government’s announcement of new measures to better protect children online.”",0,1,0,1,irrelevant,positive,0.0000,11.3482,,0,
 qwen3:4b,2066602845059846541,"UK Takes A Step Toward Online Safety | The Office of the Duke and Duchess of Sussex
 
-“We welcome the UK Government’s announcement of new measures to better protect children online.”",0,0,0,0,irrelevant,error,0.0000,1.5263,,1,No JSON object found: 
+“We welcome the UK Government’s announcement of new measures to better protect children online.”",0,1,0,1,irrelevant,positive,0.0000,16.5617,,0,
 qwen3:4b,2066602067826016582,"The UK’s recent social media ban for under-16s, alongside similar measures in other countries, reflects the right diagnosis but the wrong prescription.
 
-Blanket bans risk undermining children’s rights to expression and access to information, while driving intrusive",0,0,0,0,irrelevant,error,0.0000,1.5570,,1,No JSON object found: 
-qwen3:4b,2066590700859466229,"@ryangerritsen @Kirky861 This tells us all we need to know. Google a country name with ""protect children online"" and you'll see it's global.",0,0,0,0,irrelevant,error,0.0000,1.2743,,1,No JSON object found: 
+Blanket bans risk undermining children’s rights to expression and access to information, while driving intrusive",0,1,0,2,irrelevant,negative,0.0000,9.5291,,0,
+qwen3:4b,2066590700859466229,"@ryangerritsen @Kirky861 This tells us all we need to know. Google a country name with ""protect children online"" and you'll see it's global.",0,1,0,3,irrelevant,neutral,0.0000,11.9712,,0,
 qwen3:4b,2066589422405947480,"🆕 Sussex Update | UK TAKES A STEP TOWARD ONLINE SAFETY
 
 A statement from Prince Harry and Meghan, Duke and Duchess of Sussex.
 
 “We welcome the UK Government’s announcement of new measures to better protect children online”
 
-🔗https://t.co/H6yVY0Gv2v,",0,0,0,0,irrelevant,error,0.0000,1.6177,,1,No JSON object found: 
-qwen3:4b,2066588201607909799,@NadiaWhittomeMP Please feel free to look at this article which lays out why such blanket bans will bring more harms than goods and the alternative options to protect children online and tackle Big Tech enshittification. Thank you.,1,0,2,0,negative,error,0.0000,1.5694,,0,No JSON object found: 
-qwen3:4b,2066586655851520469,"British Prime Minister Keir Starmer announces a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.",1,0,3,0,neutral,error,0.0000,1.2990,,0,No JSON object found: 
+🔗https://t.co/H6yVY0Gv2v,",0,1,0,1,irrelevant,positive,0.0000,9.5839,,0,
+qwen3:4b,2066588201607909799,@NadiaWhittomeMP Please feel free to look at this article which lays out why such blanket bans will bring more harms than goods and the alternative options to protect children online and tackle Big Tech enshittification. Thank you.,1,1,2,2,negative,negative,0.0000,11.6339,,1,
+qwen3:4b,2066586655851520469,"British Prime Minister Keir Starmer announces a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.",1,1,3,1,neutral,positive,0.0000,7.9956,,0,
 qwen3:4b,2066573996188168412,"Not royals latest 
 
 PA: “The Duke and Duchess of Sussex have welcomed the Government’s social media ban for under-16s but warned “while measures such as these help reduce harm, they do not fix the problem at its source”.
-“We welcome the UK Government’s announcement of new",1,0,1,0,positive,error,0.0000,1.6629,,0,No JSON object found: 
+“We welcome the UK Government’s announcement of new",1,1,1,3,positive,neutral,0.0000,20.7614,,0,
 qwen3:4b,2066567179969909096,"@GuidoFawkes It means Digital ID.
 
 Govt monitoring your every move &amp; your voice being muted.
 
 Nothing to do with online safety.  
 
-The tools to protect children online, what they see, what content and apps they can use have existed for at least a decade.",1,0,2,0,negative,error,0.0000,1.4344,,0,No JSON object found: 
+The tools to protect children online, what they see, what content and apps they can use have existed for at least a decade.",1,0,2,0,negative,irrelevant,0.0000,71.6936,,0,
 qwen3:4b,2066564514166755377,"🇬🇧 The UK Government has clarified that adults will still be able to use social media platforms after verifying their identity.
 
 Approved methods include digital IDs, facial recognition, passports, and credit cards. 
 
-The move is part of efforts to protect children online while",1,0,3,0,neutral,error,0.0000,1.2373,,0,No JSON object found: 
-qwen3:4b,2066561623871918374,"@elonmusk No it’s not @elonmusk ! It’s a very good way to protect children online from things such as sexual grooming, bullying and suicide prevention. The social media platforms don’t do anywhere near enough to crack down on these things. If you don’t agree with the approach, then how",1,0,1,0,positive,error,0.0000,1.3216,,0,No JSON object found: 
-qwen3:4b,2066553201386721360,"@elonmusk you can't spend years cutting moderation teams and rolling back safety oversight, then act shocked when governments decide they need to step in and protect children online",1,0,1,0,positive,error,0.0000,1.5109,,0,No JSON object found: 
+The move is part of efforts to protect children online while",1,1,3,3,neutral,neutral,0.0000,19.2513,,1,
+qwen3:4b,2066561623871918374,"@elonmusk No it’s not @elonmusk ! It’s a very good way to protect children online from things such as sexual grooming, bullying and suicide prevention. The social media platforms don’t do anywhere near enough to crack down on these things. If you don’t agree with the approach, then how",1,1,1,1,positive,positive,0.0000,10.0044,,1,
+qwen3:4b,2066553201386721360,"@elonmusk you can't spend years cutting moderation teams and rolling back safety oversight, then act shocked when governments decide they need to step in and protect children online",1,1,1,1,positive,positive,0.0000,11.8007,,1,
 qwen3:4b,2066550380452786334,"I have rarely read so much rubbish from The Spectator.
 
-The conservative rag that it has become, coupled with the increasingly poor standard of its editorial judgement, means that articles such as this are difficult to take seriously. I suspect many Conservatives themselves will",0,0,0,0,irrelevant,error,0.0000,1.2097,,1,No JSON object found: 
+The conservative rag that it has become, coupled with the increasingly poor standard of its editorial judgement, means that articles such as this are difficult to take seriously. I suspect many Conservatives themselves will",0,0,0,0,irrelevant,irrelevant,0.0000,11.5233,,1,

@@ -1,84 +1,84 @@
 ﻿model,Tweet ID,Tweet Content,gold_relevant,pred_relevant,gold_sentiment,pred_sentiment,gold_name,pred_name,confidence,latency_sec,reason,correct,error
 llama3.1:8b,2071089516044259603,"I will always side with the children. Always. No exceptions. No asterisks.
 Let me be direct about something that too many politicians are afraid to say out loud.
-Willfully exposing children to adult nudity is not a celebration. It is not inclusion. It is not pride. It is a",0,1,0,2,irrelevant,negative,0.9000,14.4620,"The tweet mentions 'children' (condition A) and involves the digital context of exposing children to adult nudity on social media or online platforms (condition B). The sentiment is negative/opposing as it strongly opposes willfully exposing children to adult content, which implies a need for regulation or restriction.",0,
+Willfully exposing children to adult nudity is not a celebration. It is not inclusion. It is not pride. It is a",0,0,0,0,irrelevant,irrelevant,0.0000,10.8144,,1,
 llama3.1:8b,2071089161734656466,"@JupitersArcherD @ChantaleBerger3 I will always side with the children. Always. No exceptions. No asterisks.
 Let me be direct about something that too many politicians are afraid to say out loud.
-Willfully exposing children to adult nudity is not a celebration. It is not inclusion. It is not pride. It is a",0,1,0,2,irrelevant,negative,0.9000,3.3092,"The tweet mentions 'children' and involves the digital context of social media, specifically adult nudity on platforms that may be accessible to minors.",0,
-llama3.1:8b,2071079497940566377,"The KIDS Act claims to protect children online, but only weakens accountability for Big Tech by removing key protections around harms like eating disorders, suicide, and addiction. Sign the petition at the link below to stand with us.",1,1,2,2,negative,negative,0.9000,4.4955,"The tweet mentions 'children' (condition A) and involves a digital context (social media, online harms), making it relevant. The sentiment is negative/opposing as the author opposes the KIDS Act's provisions, emphasizing that they weaken accountability for Big Tech.",1,
-llama3.1:8b,2071069334512771412,"@Parents_Rise I understand where you're coming from, and I'm truly sorry for the parents who have lost their children. No parent should ever have to experience that kind of pain. I think we all share the same goal of wanting to protect children online and reduce the risks they face from",1,1,3,3,neutral,neutral,0.9000,4.2137,"The tweet mentions minors (children) and involves a digital context (online safety), satisfying both conditions for relevance. The sentiment is neutral as it presents a factual statement about shared goals without expressing a clear opinion on digital restrictions or regulations.",1,
+Willfully exposing children to adult nudity is not a celebration. It is not inclusion. It is not pride. It is a",0,1,0,2,irrelevant,negative,0.0000,1.3163,,0,
+llama3.1:8b,2071079497940566377,"The KIDS Act claims to protect children online, but only weakens accountability for Big Tech by removing key protections around harms like eating disorders, suicide, and addiction. Sign the petition at the link below to stand with us.",1,1,2,2,negative,negative,0.0000,1.3476,,1,
+llama3.1:8b,2071069334512771412,"@Parents_Rise I understand where you're coming from, and I'm truly sorry for the parents who have lost their children. No parent should ever have to experience that kind of pain. I think we all share the same goal of wanting to protect children online and reduce the risks they face from",1,1,3,3,neutral,neutral,0.0000,1.3336,,1,
 llama3.1:8b,2070961408343445988,"Passing legislation to protect kids online has been a main priority of mine as a mom, pediatrician, and member of Congress.
 
 I am excited to pass the KIDS Act in the House, a much-needed bill that will help protect children online and hold Big Tech accountable. 
 
-I'm proud to",1,1,1,1,positive,positive,0.9000,4.1328,"The tweet mentions 'kids' (condition A) and involves a digital context (online protection, Big Tech accountability), satisfying both conditions for relevance. The sentiment is positive as the author supports legislation to protect children online.",1,
+I'm proud to",1,1,1,1,positive,positive,0.0000,1.3295,,1,
 llama3.1:8b,2070905113754095729,"@EkGaetan @redumbrellaclub which specific point is wrong. Everyone agrees we should protect children online. The disagreement is about whether mandatory age verification actually solves the problem.
 
-1. What actually prevents a child from using someone else's already verified account? If a parent, older",1,0,3,0,neutral,irrelevant,1.0000,4.7845,"The tweet does not mention minors as the primary focus, but rather discusses protecting children online in general terms. It also involves digital context (online safety and age verification), but the main point of discussion is about the effectiveness of a specific solution, not directly related to minors or digital restrictions.",0,
-llama3.1:8b,2070890504695451744,"@AmericaPapaBear Governments use children to creat new laws &amp; restrictions on law abiding citizens. For example; age verification on monitoring systems! They say it's to protect children online. In reality it's a violation of the 1st, 4th,  5th &amp; 14th amendment rights! Rights you won't get back!",1,0,2,0,negative,irrelevant,1.0000,3.0649,"The tweet does not mention minors or involve a digital context, as it primarily discusses government actions and constitutional amendments.",0,
+1. What actually prevents a child from using someone else's already verified account? If a parent, older",1,1,3,2,neutral,negative,0.0000,1.3323,,0,
+llama3.1:8b,2070890504695451744,"@AmericaPapaBear Governments use children to creat new laws &amp; restrictions on law abiding citizens. For example; age verification on monitoring systems! They say it's to protect children online. In reality it's a violation of the 1st, 4th,  5th &amp; 14th amendment rights! Rights you won't get back!",1,1,2,2,negative,negative,0.0000,1.3153,,1,
 llama3.1:8b,2070751544170152424,"Sri Lanka hasn't introduced similar restrictions.
 
 But the question is no longer hypothetical.
 
-As more countries act, the pressure to decide how we protect children online will only grow.",0,1,0,3,irrelevant,neutral,0.9000,3.8471,"The tweet mentions minors (children) and involves a digital context (online protection), making it relevant. The sentiment is neutral as the text describes a factual situation without expressing a clear opinion on restrictions.",0,
-llama3.1:8b,2070625335914221580,"For the last six years, I have worked as a mom and a member of the @EnergyCommerce Committee to protect children online. With the bipartisan KIDS Act, we have a real chance to notch a win in that fight. I commend Ranking Member @FrankPallone for his diligence and persistence in",1,1,1,3,positive,neutral,0.9000,3.8345,"The tweet mentions minors (children) and involves a digital context (online protection), satisfying both conditions for relevance. The sentiment is neutral as it reports on policy efforts without expressing a clear opinion.",0,
-llama3.1:8b,2070552599426925035,"@FRAMER_FRAMER I’m paid in the sense that donors like that I want to protect children online  and decide to contribute to our public policy efforts.  Otherwise, no one can buy me and dictate to me what my position is.  I’d rather quit than sell out my principles.  I’m a conservative.  I think",0,1,0,3,irrelevant,neutral,0.8000,4.2729,"The tweet mentions minors (children) and involves digital context (online protection), satisfying both conditions for relevance. The sentiment is neutral as it presents a factual statement about the author's principles without expressing a clear opinion on digital restrictions or regulations.",0,
+As more countries act, the pressure to decide how we protect children online will only grow.",0,1,0,3,irrelevant,neutral,0.0000,1.3023,,0,
+llama3.1:8b,2070625335914221580,"For the last six years, I have worked as a mom and a member of the @EnergyCommerce Committee to protect children online. With the bipartisan KIDS Act, we have a real chance to notch a win in that fight. I commend Ranking Member @FrankPallone for his diligence and persistence in",1,1,1,3,positive,neutral,0.0000,1.2982,,0,
+llama3.1:8b,2070552599426925035,"@FRAMER_FRAMER I’m paid in the sense that donors like that I want to protect children online  and decide to contribute to our public policy efforts.  Otherwise, no one can buy me and dictate to me what my position is.  I’d rather quit than sell out my principles.  I’m a conservative.  I think",0,0,0,0,irrelevant,irrelevant,0.0000,1.3020,,1,
 llama3.1:8b,2070551984499835344,"#IPHRC, represented by H.E. Ambassador Dr. Mahy Hassan Abdul Latif, Vice-Chairperson of the OIC-IPHRC, participated in the 62nd Session of the UN Human Rights Council in Geneva.
 
-On this occasion, the Commission addressed key human rights issues and co-organized a side event on",0,0,0,0,irrelevant,irrelevant,1.0000,2.5170,The tweet does not mention minors or involve digital context.,1,
+On this occasion, the Commission addressed key human rights issues and co-organized a side event on",0,0,0,0,irrelevant,irrelevant,0.0000,1.3093,,1,
 llama3.1:8b,2070432570764874193,"A reminder: Trump's National Policy Framework for AI wants to protect children online by establishing commercially reasonable, privacy protective AGE-ASSURANCE.
 
 AGE-ASSURANCE means 🆔 verification for internet content. FOR EVERYONE!
 
-Also the funny part here is wording ""privacy",1,1,2,3,negative,neutral,0.9000,3.9177,"The tweet mentions minors (children) and involves a digital context (online protection), satisfying both conditions for relevance. The sentiment is neutral as it describes a policy framework without expressing a clear opinion or emotion.",0,
+Also the funny part here is wording ""privacy",1,1,2,3,negative,neutral,0.0000,1.3114,,0,
 llama3.1:8b,2070384310738120772,"PM @AlboMP says #Australia's world-first #socialmedia laws will be strengthened following concerns raised by the online safety regulator, signalling tougher measures to protect children online.
 
 Read: https://t.co/bA4CFeiL6J 
 
-#Inspirepreneur",1,1,1,3,positive,neutral,0.9000,3.8773,"The tweet mentions minors (children) and involves a digital context (social media laws), satisfying both conditions for relevance. The sentiment is neutral as it reports on policy description without expressing a clear opinion.",0,
-llama3.1:8b,2070278282407281132,LAUSD Screen Time Policy Divides Parents Over Device Limits,1,0,3,0,neutral,irrelevant,1.0000,2.9859,"The tweet does not mention minors or involve a digital context, so it is irrelevant to the topic.",0,
+#Inspirepreneur",1,1,1,3,positive,neutral,0.0000,1.2910,,0,
+llama3.1:8b,2070278282407281132,LAUSD Screen Time Policy Divides Parents Over Device Limits,1,1,3,3,neutral,neutral,0.0000,1.2823,,1,
 llama3.1:8b,2070120459614486562,"Essay: In a world drowning in outrage, addiction, and algorithmic sludge, how do we actually protect children online without sliding into censorship or naive libertarianism?
 
  “The Clean Room Next to the Sewer,” 
 
-offers practical takes on the subject. Instead of the usual",1,0,3,0,neutral,irrelevant,1.0000,2.9414,"The tweet does not mention minors or involve a digital context, so it is irrelevant to the topic.",0,
-llama3.1:8b,2070090847912440083,"The official said it was normal for the White House to back such a measure, which builds on the Take It Down Act S. 146 (119) and other efforts to combat child sexual abuse material and protect children online.",1,0,1,0,positive,irrelevant,1.0000,3.5597,The tweet mentions 'child sexual abuse material' but does not explicitly mention minors or digital context in a way that satisfies both conditions (A) and (B).,0,
+offers practical takes on the subject. Instead of the usual",1,1,3,3,neutral,neutral,0.0000,1.2867,,1,
+llama3.1:8b,2070090847912440083,"The official said it was normal for the White House to back such a measure, which builds on the Take It Down Act S. 146 (119) and other efforts to combat child sexual abuse material and protect children online.",1,1,1,3,positive,neutral,0.0000,1.2812,,0,
 llama3.1:8b,2070046082604614059,"How are European countries organising their policies to protect children online?
 
 Drawing on the 2026 BIK Policy Monitor report, a new insight article on the BIK platform explores exactly that.
 
 Key takeaways:
-• All 29 participating countries now address children's digital lives",1,0,3,0,neutral,irrelevant,1.0000,2.9859,"The tweet does not mention minors and only discusses policies for protecting children online, which is a broader topic.",0,
+• All 29 participating countries now address children's digital lives",1,1,3,3,neutral,neutral,0.0000,1.3085,,1,
 llama3.1:8b,2070024417007259751,"CICC TEMPORARILY BLOCKS “GOREBOX” APP
 
 The CICC has temporarily banned the gaming app GoreBox following the Tacloban City school shooting that left 3 students dead and 20 others injured, citing possible online influence while investigations continue.
 
-The agency said the move is",0,0,0,0,irrelevant,irrelevant,1.0000,3.0861,"The tweet does not mention minors or involve a digital context related to minors, so it is marked as Irrelevant.",1,
+The agency said the move is",0,1,0,3,irrelevant,neutral,0.0000,1.3218,,0,
 llama3.1:8b,2070021562602762373,"𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭’𝐬 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐈𝐃 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲 𝐂𝐫𝐢𝐭𝐢𝐜𝐢𝐬𝐞𝐝 𝐚𝐬 ‘𝐆𝐢𝐟𝐭 𝐭𝐨 𝐒𝐜𝐚𝐦𝐦𝐞𝐫𝐬’ 𝐚𝐬 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚𝐧 𝐒𝐭𝐮𝐝𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐄𝐟𝐟𝐞𝐜𝐭𝐢𝐯𝐞𝐧𝐞𝐬𝐬
 
-A growing international movement to protect children online is gathering",1,1,3,3,neutral,neutral,0.9000,4.0822,"The tweet mentions minors (children) and involves a digital context (online protection), satisfying both conditions for relevance. The sentiment is neutral as it reports on a growing international movement without expressing a clear opinion.",1,
+A growing international movement to protect children online is gathering",1,1,3,3,neutral,neutral,0.0000,1.4220,,1,
 llama3.1:8b,2069963187064299949,"Technology with a Purpose!
 
 Under the leadership of TG-CSB Director Shikha Goel, Telangana Police have launched India's first sovereign AI platform, C-SIGHT, to track child abuse offenders &amp; protect children online.
 
-The innovative system has already helped register 866 FIRs,",1,1,1,3,positive,neutral,1.0000,3.0035,"Mentions minors (children) and involves digital context (online protection), thus satisfying both conditions for relevance.",0,
+The innovative system has already helped register 866 FIRs,",1,1,1,3,positive,neutral,0.0000,1.2886,,0,
 llama3.1:8b,2069896054015664585,"Canada just passed a bill to ""protect children online.""
 
 But there's a loophole so glaring it makes you question everything.
-The minister stood at a podium and declared platforms would be held responsible for protecting kids from grooming, sexual exploitation &amp; predatory contact.",1,1,2,3,negative,neutral,0.9000,3.9283,"Mentions 'children' (condition A) and involves 'online safety' (condition B), making it relevant. The tone is neutral, as it reports on a bill without expressing a clear opinion.",0,
+The minister stood at a podium and declared platforms would be held responsible for protecting kids from grooming, sexual exploitation &amp; predatory contact.",1,1,2,3,negative,neutral,0.0000,1.3163,,0,
 llama3.1:8b,2069887126750032159,"🚨 #Canada’s “Child Safety” #BillC34 is promoted as a way to protect children online.  
 But it may have far-reaching implications for privacy, parental authority, free expression &amp; government oversight.
 
 Karla Treadway @thesovereignceo explains: 
 
-🔗 https://t.co/kbuHVWOygk",1,0,2,0,negative,irrelevant,1.0000,3.8598,"The tweet does not mention minors, only referencing 'children online' in a general sense and focusing on the implications of a bill for privacy, parental authority, free expression, and government oversight.",0,
+🔗 https://t.co/kbuHVWOygk",1,1,2,2,negative,negative,0.0000,1.3121,,1,
 llama3.1:8b,2069814168845209643,"Protect children online! AI tools enable stalking via social media patterns, while multiple avatars can hide harmful behaviors. Parents, stay alert: set accounts to private, manage locations, and discuss digital responsibility today!
-#GoldenPosts @GCICUganda @UCC_ED",1,1,1,3,positive,neutral,0.9000,4.4209,"The tweet mentions minors (children) and involves a digital context (social media, online safety), satisfying both conditions for relevance. The sentiment is neutral as it provides factual information about potential risks and offers advice to parents without expressing a clear opinion on regulations.",0,
+#GoldenPosts @GCICUganda @UCC_ED",1,1,1,1,positive,positive,0.0000,1.2925,,1,
 llama3.1:8b,2069783852512694590,"No confusion on this point: Screen use is still required for students at LAUSD.
 
 And these screen time “limits” are “guidelines”. The devil is in the details. TBD. 
 
-Source: LAUSD “Guidelines for Screen Time Policy”, approved by board June 23, 2026.",1,0,3,0,neutral,irrelevant,1.0000,2.7922,The tweet does not mention minors and only discusses screen time policy in a general context.,0,
+Source: LAUSD “Guidelines for Screen Time Policy”, approved by board June 23, 2026.",1,1,3,3,neutral,neutral,0.0000,1.3124,,1,
 llama3.1:8b,2069676974159634480,"‼️ Close the legal gap.
 ‼️ Protect children, not predators.
 
@@ -89,55 +89,55 @@ This is what we are missing:
 ◼️54,795 reports every day
 ◼️20 million reports every year
 
-We",1,1,2,1,negative,positive,0.9000,3.7625,"The tweet mentions 'children' and involves a digital context (online sexual abuse), making it relevant. The sentiment is positive as it emphasizes the need to protect children, not predators.",0,
+We",1,1,2,2,negative,negative,0.0000,1.3034,,1,
 llama3.1:8b,2069578775767998567,"Los Angeles Unified approves screen time policy for next school year 
 
-LEARN MORE: https://t.co/e8UIQOHUpk",1,1,3,3,neutral,neutral,0.9000,4.1015,"The tweet mentions minors (school kids) and involves a digital context (screen time policy), making it relevant to the topic. The sentiment is neutral as it's a factual news article describing a policy without expressing an opinion.",1,
-llama3.1:8b,2069554223717691504,"That's why you see this attempt at surveillance under the guise of ""protect children online"" is being pushed vigorously, the ""chosen people"" need you to submit your ID so it can shut you up easier.",0,0,0,0,irrelevant,irrelevant,1.0000,2.7856,"The tweet does not mention minors or involve a digital context, as per the guidelines.",1,
+LEARN MORE: https://t.co/e8UIQOHUpk",1,1,3,3,neutral,neutral,0.0000,1.2964,,1,
+llama3.1:8b,2069554223717691504,"That's why you see this attempt at surveillance under the guise of ""protect children online"" is being pushed vigorously, the ""chosen people"" need you to submit your ID so it can shut you up easier.",0,0,0,0,irrelevant,irrelevant,0.0000,1.2841,,1,
 llama3.1:8b,2069528637326721064,"On Social Media Harms Victim Remembrance Day, we remember the lives lost, stand with the families impacted and renew our commitment to creating a safer digital space. 📲
 
-Chairman @ChuckGrassley’s bipartisan James T. Woods Act would protect children online and hold criminals",1,1,1,3,positive,neutral,0.9000,3.8666,"The tweet mentions minors (children) and involves a digital context (social media), satisfying both conditions for relevance. The sentiment is neutral as it reports on a policy description without expressing a clear opinion.",0,
-llama3.1:8b,2069524525423706579,"@TavosCheetah This is how I feel about my gov constantly pushing legislation to ""protect children online"" when it's really just a way of building a mass surveillance network",0,1,0,2,irrelevant,negative,0.9000,4.1594,The tweet mentions 'children' (condition A) and involves the digital context of online safety and government legislation (condition B). The sentiment is negative/opposing as it criticizes the government's true intentions behind protecting children online.,0,
-llama3.1:8b,2069494864656338972,"On Social Media Victims Remembrance Day we reflect on the thousands of young people impacted, the lives lost, and the families who have faced what no one should have to. Their stories remind me every day why I keep fighting to protect children online, and why we must prevail.",1,1,1,1,positive,positive,0.9000,4.2146,"The tweet mentions 'children' (condition A) and involves a digital context ('online', condition B), making it relevant. The sentiment is positive as the author emphasizes the need to protect children online, indicating support for regulations.",1,
+Chairman @ChuckGrassley’s bipartisan James T. Woods Act would protect children online and hold criminals",1,1,1,3,positive,neutral,0.0000,1.3256,,0,
+llama3.1:8b,2069524525423706579,"@TavosCheetah This is how I feel about my gov constantly pushing legislation to ""protect children online"" when it's really just a way of building a mass surveillance network",0,0,0,0,irrelevant,irrelevant,0.0000,1.2900,,1,
+llama3.1:8b,2069494864656338972,"On Social Media Victims Remembrance Day we reflect on the thousands of young people impacted, the lives lost, and the families who have faced what no one should have to. Their stories remind me every day why I keep fighting to protect children online, and why we must prevail.",1,1,1,2,positive,negative,0.0000,1.3562,,0,
 llama3.1:8b,2069467003492933824,"On Social Media Harms Victim Remembrance Day, we remember the lives lost and families impacted by online dangers. 
 
-Their stories are why I’m working on Sammy’s Law, No Fentanyl on Social Media Act, and many other bills to protect children online and hold bad actors accountable.",1,1,1,3,positive,neutral,0.9000,4.3747,"The tweet mentions minors (children) and involves a digital context (social media), satisfying both conditions for relevance. The sentiment is neutral as it reports on the author's work on bills to protect children online, without expressing a clear opinion or emotion.",0,
-llama3.1:8b,2069449367732277745,"Parents deserve confidence that AI tools are not exposing their children to harmful content, fostering emotional dependence, or exploiting their personal information. Our commonsense bill would better protect children online while preserving American leadership in innovation.",1,1,1,3,positive,neutral,1.0000,4.1601,"The tweet mentions 'children' and involves a digital context (online safety, AI tools), satisfying both conditions for relevance. The sentiment is neutral as it presents a factual description of a bill's purpose without expressing a clear opinion.",0,
+Their stories are why I’m working on Sammy’s Law, No Fentanyl on Social Media Act, and many other bills to protect children online and hold bad actors accountable.",1,1,1,1,positive,positive,0.0000,1.3709,,1,
+llama3.1:8b,2069449367732277745,"Parents deserve confidence that AI tools are not exposing their children to harmful content, fostering emotional dependence, or exploiting their personal information. Our commonsense bill would better protect children online while preserving American leadership in innovation.",1,1,1,1,positive,positive,0.0000,1.3783,,1,
 llama3.1:8b,2069424002452410418,"I’m a 20-year-old European founder building on the internet. 🇪🇺
 
 And I think, one of the biggest digital policy questions of the next few years will not only be about AI.
 
 It will be about children, social media, age verification, encryption and privacy.
 
-And we need to be very",1,1,3,3,neutral,neutral,0.9000,4.1631,"The tweet mentions minors (children) and involves a digital context (social media, age verification), satisfying both conditions for relevance. The sentiment is neutral as it presents a factual prediction of future policy questions without expressing a clear opinion.",1,
-llama3.1:8b,2069239039949988055,MS Attorney General reaches agreement with Roblox in ongoing effort to protect children online,1,1,1,3,positive,neutral,1.0000,4.0100,"The tweet mentions minors (children) and involves a digital context (online protection), making it relevant. The tone is factual, describing an agreement between the Attorney General and Roblox, so it's neutral.",0,
+And we need to be very",1,1,3,3,neutral,neutral,0.0000,1.3644,,1,
+llama3.1:8b,2069239039949988055,MS Attorney General reaches agreement with Roblox in ongoing effort to protect children online,1,1,1,3,positive,neutral,0.0000,1.3531,,0,
 llama3.1:8b,2069238489476931629,"US House committee reaches bipartisan deal on social media rules for youth 🚨
 
-U.S. House Energy and Commerce Committee leaders said ‌in a statement on Monday they had reached a bipartisan agreement on legislation requiring social media platforms to provide safeguards and tools",1,1,1,3,positive,neutral,0.9000,4.5145,"The tweet mentions 'youth' (condition A) and involves 'social media rules' (condition B), making it relevant to the topic. The sentiment is neutral as it reports a factual news about a bipartisan agreement on legislation, without expressing a clear opinion.",0,
-llama3.1:8b,2069132922133622991,"@leebolton73 @TC7123 How can you say that? When you decrease NHS waiting lists, bring immigration down, (slightly) improve the economy, lift children out of poverty, reform housing, strengthen workers rights and protect children online…in just 2 years, how can you hate him so much?",0,0,0,0,irrelevant,irrelevant,1.0000,2.5474,The tweet does not mention minors or involve a digital context.,1,
-llama3.1:8b,2069116882137788425,My son makes this joyful noise whenever I put on the TV 😂. This “no screen time” policy his mother has been shouting about don fail oo,0,0,0,0,irrelevant,irrelevant,1.0000,2.9678,"The tweet does not mention minors or involve a digital context, so it is irrelevant to the topic.",1,
+U.S. House Energy and Commerce Committee leaders said ‌in a statement on Monday they had reached a bipartisan agreement on legislation requiring social media platforms to provide safeguards and tools",1,1,1,3,positive,neutral,0.0000,1.3379,,0,
+llama3.1:8b,2069132922133622991,"@leebolton73 @TC7123 How can you say that? When you decrease NHS waiting lists, bring immigration down, (slightly) improve the economy, lift children out of poverty, reform housing, strengthen workers rights and protect children online…in just 2 years, how can you hate him so much?",0,0,0,0,irrelevant,irrelevant,0.0000,1.3694,,1,
+llama3.1:8b,2069116882137788425,My son makes this joyful noise whenever I put on the TV 😂. This “no screen time” policy his mother has been shouting about don fail oo,0,0,0,0,irrelevant,irrelevant,0.0000,1.3274,,1,
 llama3.1:8b,2069087775291322550,"Every one of us has a role to play in protecting children. 
 Join us as we work to protect children online through our Let Parents Parent campaign.
 
-#protectchildren #protectkids #LetParentsParent",1,1,1,3,positive,neutral,0.9000,4.1597,"The tweet mentions 'children' and involves a digital context (online protection), satisfying both conditions for relevance. The sentiment is neutral as it's a factual announcement about a campaign without expressing a clear opinion on digital restrictions or regulations.",0,
-llama3.1:8b,2069057136987156889,"There are few easier political arguments than saying we must protect children online. Every serious parent agrees with that. Every responsible adult knows social media can be addictive, manipulative, corrosive, and, at times, deeply harmful. The platforms have designed products",0,0,0,0,irrelevant,irrelevant,1.0000,4.1638,"The tweet mentions adults and parents but does not explicitly mention minors or children. It also discusses the potential harm of social media, which is a digital context, but it does so in a neutral manner without advocating for specific regulations.",1,
+#protectchildren #protectkids #LetParentsParent",1,1,1,3,positive,neutral,0.0000,1.3350,,0,
+llama3.1:8b,2069057136987156889,"There are few easier political arguments than saying we must protect children online. Every serious parent agrees with that. Every responsible adult knows social media can be addictive, manipulative, corrosive, and, at times, deeply harmful. The platforms have designed products",0,1,0,3,irrelevant,neutral,0.0000,1.3523,,0,
 llama3.1:8b,2069035167843328198,"SIIA joined TechNet and Engine Advocacy in filing an amicus brief urging the U.S. Supreme Court to vacate the stay allowing enforcement of Texas SB 2420.
 
-The brief highlights how the law would impose significant compliance burdens on app developers, digital publishers, and app",0,0,0,0,irrelevant,irrelevant,1.0000,2.7370,The tweet does not mention minors or involve a digital context related to their protection.,1,
+The brief highlights how the law would impose significant compliance burdens on app developers, digital publishers, and app",0,0,0,0,irrelevant,irrelevant,0.0000,1.3379,,1,
 llama3.1:8b,2069029597073600688,"Keir Starmer took Labour from division and unelectability to a party trusted to govern again.
 
-As Prime Minister, he leaves a legacy of real progress: children lifted out of poverty, NHS waiting lists falling, stronger workers’ rights, renewed international relationships, action",0,0,0,0,irrelevant,irrelevant,1.0000,2.5512,The tweet does not mention minors or involve a digital context.,1,
-llama3.1:8b,2069008561502384434,@HJB_News__ He said he wanted to protect children ONLINE! There's a nuance here.,0,1,0,3,irrelevant,neutral,1.0000,4.1797,"The tweet mentions minors (children) and involves digital context (online protection), satisfying both conditions for relevance. The sentiment is neutral as it presents a factual nuance without expressing a clear opinion on digital restrictions or regulations.",0,
+As Prime Minister, he leaves a legacy of real progress: children lifted out of poverty, NHS waiting lists falling, stronger workers’ rights, renewed international relationships, action",0,0,0,0,irrelevant,irrelevant,0.0000,1.3548,,1,
+llama3.1:8b,2069008561502384434,@HJB_News__ He said he wanted to protect children ONLINE! There's a nuance here.,0,1,0,3,irrelevant,neutral,0.0000,1.3553,,0,
 llama3.1:8b,2068746501468332516,"📱 UAE sets 15 as minimum age for social media access to protect children online.
 
-#BSNews #UAE #SocialMedia #ChildSafety",1,1,1,3,positive,neutral,1.0000,3.8519,"The tweet mentions minors (children) and involves a digital context (social media), satisfying both conditions for relevance. The sentiment is neutral as it reports on a policy decision without expressing a clear opinion.",0,
-llama3.1:8b,2068742307680276681,"Whittaker says business models that rely on data collection, the rise of AI assistants, &amp; even well-meaning efforts to protect children online risk undermining private communication — &amp; explains why Signal would rather leave a market than weaken encryption",0,0,0,0,irrelevant,irrelevant,1.0000,2.8387,The tweet does not mention minors or involve digital context related to regulation or protection for them.,1,
+#BSNews #UAE #SocialMedia #ChildSafety",1,1,1,3,positive,neutral,0.0000,1.3551,,0,
+llama3.1:8b,2068742307680276681,"Whittaker says business models that rely on data collection, the rise of AI assistants, &amp; even well-meaning efforts to protect children online risk undermining private communication — &amp; explains why Signal would rather leave a market than weaken encryption",0,0,0,0,irrelevant,irrelevant,0.0000,1.3496,,1,
 llama3.1:8b,2068662126604947546,"That’s who’s telling you he’s going to protect children online👇🏼👁️🧠
 
-Lindsey Graham was also named in the Sascha Riley testimonies. That alone should damn him. And don’t forget who supported his reelection again 👉🏼🍊 #Pedophiles #AllOfThem",0,0,0,0,irrelevant,irrelevant,1.0000,3.5027,"The tweet does not mention minors or involve a digital context, as it appears to be discussing political scandals and accusations rather than digital restrictions or regulations for minors.",1,
+Lindsey Graham was also named in the Sascha Riley testimonies. That alone should damn him. And don’t forget who supported his reelection again 👉🏼🍊 #Pedophiles #AllOfThem",0,0,0,0,irrelevant,irrelevant,0.0000,1.3735,,1,
 llama3.1:8b,2068599404190204089,"Global leaders unite to protect #children online, strengthen safety tools, and promote digital #education for a safer,  
 #ChildOnlineSafety #SaferInternet #ProtectChildren #DigitalSafety  #CyberSafety #GlobalCooperation #InternetProtection #ChildWelfare 
-https://t.co/YIs5I5Xv5V",1,1,1,3,positive,neutral,1.0000,4.3231,"The tweet mentions 'children' and involves a digital context (online safety, internet protection), making it relevant. The sentiment is neutral as the text describes global leaders uniting to strengthen safety tools without expressing a clear opinion on restrictions or regulations.",0,
+https://t.co/YIs5I5Xv5V",1,1,1,3,positive,neutral,0.0000,1.3286,,0,
 llama3.1:8b,2068589811191971934,"‼️ Close the legal gap.
 ‼️ Protect children, not predators.
 
@@ -148,66 +148,66 @@ This is what we are missing:
 ◼️54,795 reports every day
 ◼️20 million reports every year
 
-We",1,1,2,1,negative,positive,0.9000,3.7331,"The tweet mentions 'children' and involves a digital context (online sexual abuse), making it relevant. The sentiment is positive as it emphasizes the need to protect children, not predators.",0,
-llama3.1:8b,2068538836561592466,Reform technology laws to protect children online - Sign the Petition! https://t.co/zu37ihL18Q via @CdnChange,1,1,1,3,positive,neutral,0.9000,3.9973,"The tweet mentions minors (children) and involves a digital context (online protection), satisfying both conditions for relevance. The sentiment is neutral as it's a factual call to action with no clear opinion on the topic.",0,
+We",1,1,2,2,negative,negative,0.0000,1.3532,,1,
+llama3.1:8b,2068538836561592466,Reform technology laws to protect children online - Sign the Petition! https://t.co/zu37ihL18Q via @CdnChange,1,1,1,1,positive,positive,0.0000,1.4004,,1,
 llama3.1:8b,2067944526832975932,"TECH UPDATE: Kenya Joins Global Push to Make the Internet Safer for Children
 
-The internet has opened incredible opportunities for learning, creativity, communication, and access to information. But as more children spend time online, concerns about their safety are growing just",1,1,1,3,positive,neutral,0.9000,4.3047,"The tweet mentions minors (children) and involves a digital context (internet), satisfying both conditions for relevance. The sentiment is neutral as it presents factual information about the growing concerns of children's safety online, without expressing a clear opinion or emotion.",0,
-llama3.1:8b,2067941543743528981,"Over 5,000 kids, 1,000 parents: Dubai launches initiative to protect children online",1,1,1,3,positive,neutral,1.0000,3.8719,"The tweet mentions minors (kids) and involves a digital context (online protection), making it relevant. The tone is factual, describing an initiative to protect children online, which is neutral.",0,
+The internet has opened incredible opportunities for learning, creativity, communication, and access to information. But as more children spend time online, concerns about their safety are growing just",1,1,1,3,positive,neutral,0.0000,1.3400,,0,
+llama3.1:8b,2067941543743528981,"Over 5,000 kids, 1,000 parents: Dubai launches initiative to protect children online",1,1,1,3,positive,neutral,0.0000,1.3221,,0,
 llama3.1:8b,2067913529215033643,"The United Arab Emirates has introduced a minimum age of 15 for social media use, becoming the first Arab country to implement such a restriction as governments worldwide tighten rules to protect children online.
 
 FULL STORY: https://t.co/iHmn2fBvMj
 
-#AsaaseNews | #AsaaseDigital",1,1,1,3,positive,neutral,1.0000,3.1540,"The tweet mentions minors (children) and involves a digital context (social media use restriction), satisfying both conditions for relevance.",0,
+#AsaaseNews | #AsaaseDigital",1,1,1,3,positive,neutral,0.0000,1.3412,,0,
 llama3.1:8b,2067880134724509847,"How can countries work together to make the online world safer for children? 
 
 Join the roundtable to learn how countries can strengthen co-operation to better protect children online. 
 Register here: https://t.co/wlikMRdcSg
 
-#BetterPoliciesForBetterLives",1,1,1,3,positive,neutral,1.0000,4.1056,"The tweet mentions minors (children) and involves a digital context (online world, online safety), making it relevant. The sentiment is neutral as the text describes a roundtable discussion on policy cooperation without expressing a clear opinion.",0,
+#BetterPoliciesForBetterLives",1,1,1,3,positive,neutral,0.0000,1.3450,,0,
 llama3.1:8b,2067746480769622354,"Texas has taken big steps towards giving more power to parents and positioning Texas as a national leader in the effort to protect children online.
 
-Now, it's time for Congress to follow the Texas approach to online child safety.",0,1,0,3,irrelevant,neutral,0.9000,3.8018,"The tweet mentions 'children' and involves a digital context (online child safety), making it relevant. The sentiment is neutral as the text describes a policy approach without expressing a clear opinion.",0,
+Now, it's time for Congress to follow the Texas approach to online child safety.",0,1,0,1,irrelevant,positive,0.0000,1.3414,,0,
 llama3.1:8b,2067746344312471990,"@PaulGregor26129 These companies are almost all foreign multinationals. 
 They structure their UK subsidiaries so they show almost no profit, so the UK gets very little corporation tax. 
 We carry the energy, water, and land burden they extract the value.
 
-They only create about 30-40 permanent",0,0,0,0,irrelevant,irrelevant,1.0000,2.9475,"The tweet does not mention minors or involve a digital context, so it is irrelevant to the topic.",1,
+They only create about 30-40 permanent",0,0,0,0,irrelevant,irrelevant,0.0000,1.3671,,1,
 llama3.1:8b,2067743366360494520,"They are really serious about this so we need to seriously bring in a resistance. 
 
-Don't want Passportweb “to protect children online”",0,1,0,2,irrelevant,negative,0.9000,4.3174,"The tweet mentions 'children' (condition A) and involves the concept of 'online protection' which is related to digital context (condition B). The sentiment is negative as it opposes the idea of protecting children online, indicating a resistance against regulations.",0,
-llama3.1:8b,2067687991523606748,The European Union is planning to introduce a passport-linked internet access system to better protect children online and intends to actively combat the use of VPNs to bypass it.,0,1,0,3,irrelevant,neutral,1.0000,3.9406,"The tweet mentions minors (children) and involves a digital context (internet access system), satisfying both conditions for relevance. The sentiment is neutral as it reports on the EU's plan without expressing a clear opinion.",0,
+Don't want Passportweb “to protect children online”",0,0,0,0,irrelevant,irrelevant,0.0000,1.3187,,1,
+llama3.1:8b,2067687991523606748,The European Union is planning to introduce a passport-linked internet access system to better protect children online and intends to actively combat the use of VPNs to bypass it.,0,1,0,1,irrelevant,positive,0.0000,1.3073,,0,
 llama3.1:8b,2067657469858357399,"As the pay to play campaign ramps up targeting the App Store accountability act federally, Texas demonstrated the law is constitutional, privacy preserving &amp; just plain common sense.
 
-My latest on how we can empower parents to protect children online:",0,1,0,3,irrelevant,neutral,0.9000,4.1932,"The tweet mentions minors (children) and involves a digital context (online safety, parental control), satisfying both conditions for relevance. The sentiment is neutral as it provides factual information about the law and its implications without expressing a clear opinion.",0,
+My latest on how we can empower parents to protect children online:",0,1,0,3,irrelevant,neutral,0.0000,1.2986,,0,
 llama3.1:8b,2067609404153692496,"Over the last ten days, our incredible supporter Alexandra Nightingale  has trekked to the summit of Mount Kilimanjaro, Africa's highest peak, to raise funds for IWF and help protect children online.
 
-She's raised an amazing £9,500 so far, and her JustGiving page is still open if",0,1,0,3,irrelevant,neutral,0.8000,4.0116,"The tweet mentions minors (children) and involves a digital context (online protection), making it relevant. The sentiment is neutral as the text describes a fundraising effort without expressing a clear opinion on digital restrictions or regulations.",0,
+She's raised an amazing £9,500 so far, and her JustGiving page is still open if",0,0,0,0,irrelevant,irrelevant,0.0000,1.3176,,1,
 llama3.1:8b,2067582979409633490,"The 🇦🇪UAE has set 15 as the minimum age for social media access, joining a growing global movement to protect children online.
 
 🇦🇺Australia already restricts access for under-16s, while the UK has announced similar measures.
 
-Could🇮🇳India be next?⬇️",1,1,1,3,positive,neutral,0.9000,3.9702,"The tweet mentions minors (children) and involves a digital context (social media access restrictions), making it relevant to the topic. The sentiment is neutral as it reports on existing measures without expressing a clear opinion.",0,
+Could🇮🇳India be next?⬇️",1,1,1,3,positive,neutral,0.0000,1.2949,,0,
 llama3.1:8b,2067563808344695099,"Hot on the heels of announcing a ban on social media for under 16s, the UK is expected to announce a ban on VPNs next month. This is meant to protect children online, but we've been here before...
 
-I thought I'd break down the key policies of the last 10 years, what they claimed",0,1,0,2,irrelevant,negative,0.9000,4.7430,"The tweet mentions minors (under 16s) and involves a digital context (social media ban and VPN ban), satisfying both conditions for relevance. The sentiment is negative/opposing as the author expresses skepticism about the government's intentions to protect children online, implying that previous policies were ineffective.",0,
-llama3.1:8b,2067513961260396990,@elonmusk Now they want to restrict VPNs under the false premise of saying they want to protect children online. If you have to prove your id when using a VPN it destroys the whole purpose of using one. Privacy online will be completely dead and we will be under constant surveillance.,0,0,0,0,irrelevant,irrelevant,1.0000,2.6923,"The tweet does not mention minors, which is a required condition for relevance.",1,
+I thought I'd break down the key policies of the last 10 years, what they claimed",0,1,0,2,irrelevant,negative,0.0000,1.3316,,0,
+llama3.1:8b,2067513961260396990,@elonmusk Now they want to restrict VPNs under the false premise of saying they want to protect children online. If you have to prove your id when using a VPN it destroys the whole purpose of using one. Privacy online will be completely dead and we will be under constant surveillance.,0,0,0,0,irrelevant,irrelevant,0.0000,1.2811,,1,
 llama3.1:8b,2067287596729012345,"Make it make sense.
 
-The same people comprising the UK's leadership (Starmer, etc.) who are all of a sudden going overboard on the dire need to protect children online did NOTHING to protect hundreds of thousands of children from being brutalized by rape gangs going back THIRTY",0,0,0,0,irrelevant,irrelevant,1.0000,3.3247,"The tweet does not mention minors or involve a digital context, as it focuses on the UK's leadership and historical issues unrelated to online safety.",1,
+The same people comprising the UK's leadership (Starmer, etc.) who are all of a sudden going overboard on the dire need to protect children online did NOTHING to protect hundreds of thousands of children from being brutalized by rape gangs going back THIRTY",0,0,0,0,irrelevant,irrelevant,0.0000,1.2887,,1,
 llama3.1:8b,2067283173529002217,"Whistleblowers for Freedom Advocacy of Canada
 PUBLIC WARNING — The Age Verification Trap
 
 It started in the United Kingdom. The Online Safety Act told parents it would protect children online. Nobody asked why children needed to prove their identity to access the internet.
 
-That",0,1,0,2,irrelevant,negative,0.9000,4.1649,"The tweet mentions minors (children) and involves a digital context (Online Safety Act, age verification), satisfying both conditions for relevance. The sentiment is negative/opposing as it questions the need for children to prove their identity online.",0,
+That",0,1,0,2,irrelevant,negative,0.0000,1.2979,,0,
 llama3.1:8b,2067251452850950447,"""More than 900 parents in Henrico County petitioned the school board to adopt a screen time policy, and roughly 1,390 Chesterfield County parents and 160 Richmond parents asked districts to pull devices for grades K-2.""
 
-Henrico parents urge school board to adopt new tech rules",0,0,0,0,irrelevant,irrelevant,1.0000,3.2401,"The tweet does not mention minors or involve a digital context, as it only discusses parents' requests for screen time policies in schools.",1,
-llama3.1:8b,2067221381771665493,"We call on @Parliament_Ug and @UCC_Official to strengthen laws and regulations that protect children online, including age-appropriate access to social media platforms and accountability for technology companies. #ProtectChildren",1,1,1,3,positive,neutral,1.0000,4.1484,"The tweet mentions minors (children) and involves a digital context (social media), satisfying both conditions for relevance. The sentiment is neutral as it presents a factual call to action without expressing a clear opinion on the matter.",0,
-llama3.1:8b,2067187204536037558,"The UK government aims to protect children online, but its proposed social media ban for those under 16 raises a broader question: whether child safety can be enforced without turning the internet into an identity checkpoint. However, privacy advocates and platforms caution that",0,1,0,3,irrelevant,neutral,0.9000,4.1648,"The tweet mentions minors (children under 16) and involves a digital context (social media ban), satisfying both conditions for relevance. The sentiment is neutral as it presents a factual question and opposing views without expressing a clear opinion.",0,
-llama3.1:8b,2067183502852784511,"Keir Starmer wants to protect children online but let’s not forget his party voted against a national rape gang enquiry three times. Where up to 250,000 British girls were raped by predominantly Pakistani Muslim men.",0,0,0,0,irrelevant,irrelevant,1.0000,3.0644,The tweet mentions children (minors) but does not involve a digital context related to regulation or protection for minors.,1,
-llama3.1:8b,2067165565722996872,"If @Keir_Starmer really wanted to protect children online, he'd get his online snoopers, sorry, task force to identify, close accounts of and jail the paedophiles using online platforms to groom kids &amp; share CP.  Instead, its an excuse to limit freedoms of 68 million British",0,1,0,2,irrelevant,negative,0.9000,4.2108,"The tweet mentions 'kids' and 'online platforms', satisfying both conditions for relevance. The sentiment is negative/opposing as it criticizes the proposed task force, implying that limiting freedoms is not an effective way to protect children online.",0,
+Henrico parents urge school board to adopt new tech rules",0,1,0,3,irrelevant,neutral,0.0000,1.2894,,0,
+llama3.1:8b,2067221381771665493,"We call on @Parliament_Ug and @UCC_Official to strengthen laws and regulations that protect children online, including age-appropriate access to social media platforms and accountability for technology companies. #ProtectChildren",1,1,1,1,positive,positive,0.0000,1.2932,,1,
+llama3.1:8b,2067187204536037558,"The UK government aims to protect children online, but its proposed social media ban for those under 16 raises a broader question: whether child safety can be enforced without turning the internet into an identity checkpoint. However, privacy advocates and platforms caution that",0,1,0,3,irrelevant,neutral,0.0000,1.2863,,0,
+llama3.1:8b,2067183502852784511,"Keir Starmer wants to protect children online but let’s not forget his party voted against a national rape gang enquiry three times. Where up to 250,000 British girls were raped by predominantly Pakistani Muslim men.",0,0,0,0,irrelevant,irrelevant,0.0000,1.3012,,1,
+llama3.1:8b,2067165565722996872,"If @Keir_Starmer really wanted to protect children online, he'd get his online snoopers, sorry, task force to identify, close accounts of and jail the paedophiles using online platforms to groom kids &amp; share CP.  Instead, its an excuse to limit freedoms of 68 million British",0,1,0,2,irrelevant,negative,0.0000,1.2871,,0,
 llama3.1:8b,2067140247121514837,"‼️ Close the legal gap.
 ‼️ Protect children, not predators.
 
@@ -218,95 +218,95 @@ This is what we are missing:
 ◼️54,795 reports every day
 ◼️20 million reports every year
 
-We",1,1,2,1,negative,positive,0.9000,3.7746,"The tweet mentions 'children' and involves a digital context (online sexual abuse), making it relevant. The sentiment is positive as it emphasizes the need to protect children, not predators.",0,
+We",1,1,2,2,negative,negative,0.0000,1.3257,,1,
 llama3.1:8b,2067129618998476851,"My friend Erickson Odhiambo has raised the need for a law to be enacted to protect children online. This parliament should do some good. 
 
 TG @KANUParty_ke 
-@SGEOdhiambo",0,1,0,3,irrelevant,neutral,0.9000,4.3516,"The tweet mentions minors (children) and involves a digital context (online protection), satisfying both conditions for relevance. The sentiment is neutral as it's a factual statement about the need for a law, without expressing a clear opinion on restrictions or regulations.",0,
+@SGEOdhiambo",0,1,0,3,irrelevant,neutral,0.0000,1.2933,,0,
 llama3.1:8b,2066975983958143344,"Ottawa's proposed Safe Social Media Act raises fears of fines, censorship and a tech exodus 📵
 
-The federal government's plan to fine non-compliant social media companies more than 3% of global revenue could trigger legal challenges, strain relations with the United States and",0,0,0,0,irrelevant,irrelevant,1.0000,2.7597,The tweet does not mention minors or involve a digital context related to their protection.,1,
+The federal government's plan to fine non-compliant social media companies more than 3% of global revenue could trigger legal challenges, strain relations with the United States and",0,1,0,2,irrelevant,negative,0.0000,1.2952,,0,
 llama3.1:8b,2066956288089559525,"@notkatbaker We're angry about the government pretending to care about children and using them as a pretext for introducing mandatory ID for adults to use social media.
 
-There are other, better, ways to protect children online than a blanket ban by central government.",0,0,0,0,irrelevant,irrelevant,1.0000,2.7847,The tweet does not mention minors or involve digital context as required for relevance.,1,
+There are other, better, ways to protect children online than a blanket ban by central government.",0,1,0,2,irrelevant,negative,0.0000,1.3039,,0,
 llama3.1:8b,2066900982215188494,"""You have plans to protect children online. How about protecting them in their own homes?""
 
 Research shows physical punishment damages children's future. Joan Walmsley challenged the government to give them the same legal protection from assault adults enjoy. 
 
-@joan_walmsley",0,0,0,0,irrelevant,irrelevant,1.0000,3.1196,"The tweet does not mention minors or involve a digital context, as it focuses on physical protection in homes rather than online.",1,
-llama3.1:8b,2066882168303853925,"@brianeharrison For those under 16, the UK has not banned Discord, Kik, Omegle, YouNow, and other predatory webcam streaming sites, and messaging apps like Signal and WhatsApp. The rules are not meant to protect children online. They never were.",0,0,0,0,irrelevant,irrelevant,1.0000,4.8397,"The tweet does not mention minors (condition A) explicitly, although it mentions 'those under 16', which is a relevant age group. However, the primary focus of the tweet is on the UK's rules regarding messaging apps and webcam streaming sites, without emphasizing child protection or regulation for minors.",1,
-llama3.1:8b,2066869697698504723,"British Prime Minister Keir Starmer has announced a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.",0,1,0,1,irrelevant,positive,1.0000,4.1408,The tweet mentions minors (those under 16) and involves a digital context (social media use). The sentiment is positive/supportive as it favors a ban on social media use for those under 16 to protect children online.,0,
-llama3.1:8b,2066789961093849186,"Ultimately I believe it is with very rare exceptions (alcohol, smoking) not right to ban an entire group of people -by whatever demographic definition- from doing something, we should be looking at how to protect children online - and outright ban won’t work and it won’t hold.",0,1,0,2,irrelevant,negative,0.9000,4.4126,"The tweet mentions 'children' (condition A) and involves the digital context of online safety (condition B), making it relevant. The sentiment is negative/opposing as it argues against outright bans, which implies a lack of support for strict regulations.",0,
+@joan_walmsley",0,0,0,0,irrelevant,irrelevant,0.0000,1.3078,,1,
+llama3.1:8b,2066882168303853925,"@brianeharrison For those under 16, the UK has not banned Discord, Kik, Omegle, YouNow, and other predatory webcam streaming sites, and messaging apps like Signal and WhatsApp. The rules are not meant to protect children online. They never were.",0,1,0,2,irrelevant,negative,0.0000,1.2935,,0,
+llama3.1:8b,2066869697698504723,"British Prime Minister Keir Starmer has announced a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.",0,1,0,1,irrelevant,positive,0.0000,1.3087,,0,
+llama3.1:8b,2066789961093849186,"Ultimately I believe it is with very rare exceptions (alcohol, smoking) not right to ban an entire group of people -by whatever demographic definition- from doing something, we should be looking at how to protect children online - and outright ban won’t work and it won’t hold.",0,1,0,2,irrelevant,negative,0.0000,1.2981,,0,
 llama3.1:8b,2066773323271524835,"The UK plans to ban under-16s from major social media (TikTok, Instagram, X) from Spring 2027 to protect children online.
 
 - Messaging apps like WhatsApp are excluded.
-- Platforms must block under-16s from livestreaming &amp; stranger contact. AI chatbots also restricted for minors.",1,1,1,3,positive,neutral,1.0000,4.2781,"The tweet mentions minors (under-16s) and involves a digital context (social media, TikTok, Instagram, X), making it relevant. The tone is neutral as it describes the UK's plan without expressing a clear opinion.",0,
+- Platforms must block under-16s from livestreaming &amp; stranger contact. AI chatbots also restricted for minors.",1,1,1,1,positive,positive,0.0000,1.2916,,1,
 llama3.1:8b,2066756083587182923,"Loudly: ""I'll do anything to protect children online""
 Quietly: ""I'll say/do anything to convince you #digitalID is a good thing...""
-Silently: ""I want to visibility into your entire life; personal messages, pictures, financial information, political persuasion. Nothing is private""",0,1,0,1,irrelevant,positive,0.9000,3.8163,"The tweet mentions 'children' and involves a digital context (online protection), satisfying both conditions for relevance. The sentiment is positive/supportive as it explicitly states the intention to protect children online.",0,
-llama3.1:8b,2066745641271754970,"""We welcome the UK Government’s announcement of new measures to better protect children online.""",0,1,0,3,irrelevant,neutral,1.0000,3.9537,"The tweet mentions minors (children) and involves a digital context (online protection), satisfying both conditions for relevance. The sentiment is neutral as it reports on the government's announcement without expressing a clear opinion.",0,
+Silently: ""I want to visibility into your entire life; personal messages, pictures, financial information, political persuasion. Nothing is private""",0,1,0,2,irrelevant,negative,0.0000,1.3336,,0,
+llama3.1:8b,2066745641271754970,"""We welcome the UK Government’s announcement of new measures to better protect children online.""",0,1,0,3,irrelevant,neutral,0.0000,1.3394,,0,
 llama3.1:8b,2066699027538743735,"@elonmusk @TRobinsonNewEra Coming from a billionaire in a country that has blocked fans from travelling, cancelled visas for law-abiding supporters, prevented some teams from training in the US and even barred referees without reason, that’s quite a lecture.
 
-The same people who demand every country bend",0,0,0,0,irrelevant,irrelevant,1.0000,2.9071,This tweet does not mention minors or involve a digital context related to regulation or protection for them.,1,
+The same people who demand every country bend",0,0,0,0,irrelevant,irrelevant,0.0000,1.3630,,1,
 llama3.1:8b,2066681954632650942,"‘The seventh woke commandment is you will honour the state as mother and father.’
 
-Simon Hankinson of the Heritage Foundation believes that social media, when overused, is ‘destructive’, but that it’s the parents' responsibility, not the state’s, to protect children online.",0,0,0,0,irrelevant,irrelevant,1.0000,2.5777,The tweet does not mention minors or involve a digital context.,1,
+Simon Hankinson of the Heritage Foundation believes that social media, when overused, is ‘destructive’, but that it’s the parents' responsibility, not the state’s, to protect children online.",0,1,0,3,irrelevant,neutral,0.0000,1.3665,,0,
 llama3.1:8b,2066670577994088519,"‘Starmer should call out what these tech companies are doing, rather than politicians clamping down on our freedoms.’
  
-@beverleyturner blasts Keir Starmer’s under-16s social media ban, believing it’s the responsibility of parents, not the government, to protect children online.",0,1,0,2,irrelevant,negative,0.9000,4.2729,"The tweet mentions minors (under-16s) and involves a digital context (social media), satisfying both conditions for relevance. The sentiment is negative/opposing as it opposes the ban on social media for minors, emphasizing freedom of use.",0,
+@beverleyturner blasts Keir Starmer’s under-16s social media ban, believing it’s the responsibility of parents, not the government, to protect children online.",0,1,0,2,irrelevant,negative,0.0000,1.3499,,0,
 llama3.1:8b,2066662973158928733,"Prince Harry and Meghan’s statement on the UK government’s new measures to protect children online.
 
-“The stories shared through the Lost Screen Memorial remind us that behind every debate about technology and regulation are real families whose lives have been forever changed.”",0,0,0,0,irrelevant,irrelevant,1.0000,2.9403,"The tweet does not mention minors or involve a digital context, so it is irrelevant to the topic.",1,
+“The stories shared through the Lost Screen Memorial remind us that behind every debate about technology and regulation are real families whose lives have been forever changed.”",0,0,0,0,irrelevant,irrelevant,0.0000,1.3182,,1,
 llama3.1:8b,2066652008434512175,"British Prime Minister Keir Starmer has announced a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.
 
-The ban will include social platforms like Snapchat, TikTok, YouTube, Instagram, Facebook and X,",1,1,1,1,positive,positive,1.0000,4.0087,"Mentions minors (those under 16) and involves digital context (social media use). The tweet also supports a ban on social media for those under 16, which is a positive stance towards digital restrictions.",1,
+The ban will include social platforms like Snapchat, TikTok, YouTube, Instagram, Facebook and X,",1,1,1,1,positive,positive,0.0000,1.3449,,1,
 llama3.1:8b,2066650594207584644,"A online safety act to protect children online but when they catch pedos with exploitive images they let them
 Of with a slap on the wrist. Make sense of that. Why not target the pedos with the sentences they deserve instead. We all know why…..
 
-They don’t give a fuck about our",0,1,0,2,irrelevant,negative,0.9000,4.4772,"The tweet mentions minors (children) and involves digital context (online safety), satisfying both conditions for relevance. The sentiment is negative/opposing as the author criticizes the lenient treatment of pedophiles by authorities, indicating a disapproval of current regulations.",0,
+They don’t give a fuck about our",0,1,0,2,irrelevant,negative,0.0000,1.3593,,0,
 llama3.1:8b,2066633886319202670,"@PolitlcsUK Weird how people scream that we should “protect are kids” but when it comes to actually making sure children are safe online from pedophiles - they get oddly antsy and upset.
 
-You can’t protect children online without a compromise.",0,1,0,2,irrelevant,negative,0.9000,4.3434,"The tweet mentions minors (children) and involves digital context (online safety), satisfying both conditions for relevance. The sentiment is negative/opposing as it implies that people are opposed to making online spaces safe for children, citing the need for a compromise.",0,
+You can’t protect children online without a compromise.",0,1,0,2,irrelevant,negative,0.0000,1.3447,,0,
 llama3.1:8b,2066627662676652524,"""Astatement from Prince Harry and Meghan, Duke and Duchess of Sussex.""
 
-""We welcome the UK Government’s announcement of new measures to better protect children online.""",0,1,0,3,irrelevant,neutral,1.0000,3.8550,"The tweet mentions minors (children) and involves a digital context (online protection), making it relevant. The sentiment is neutral as the statement is factual, describing policy measures without expressing a clear opinion.",0,
+""We welcome the UK Government’s announcement of new measures to better protect children online.""",0,1,0,3,irrelevant,neutral,0.0000,1.3444,,0,
 llama3.1:8b,2066612572099367400,"UK Takes A Step Toward Online Safety | The Office of the Duke and Duchess of Sussex, Prince Harry and Meghan. 
 
-“We welcome the UK Government’s announcement of new measures to better protect children online.”",0,1,0,3,irrelevant,neutral,0.9000,3.7580,"The tweet mentions minors (children) and involves a digital context (online safety), making it relevant. The sentiment is neutral as the statement describes a policy announcement without expressing a clear opinion.",0,
+“We welcome the UK Government’s announcement of new measures to better protect children online.”",0,1,0,3,irrelevant,neutral,0.0000,1.3389,,0,
 llama3.1:8b,2066602845059846541,"UK Takes A Step Toward Online Safety | The Office of the Duke and Duchess of Sussex
 
-“We welcome the UK Government’s announcement of new measures to better protect children online.”",0,1,0,3,irrelevant,neutral,0.9000,3.8128,"The tweet mentions minors (children) and involves a digital context (online safety), making it relevant. The sentiment is neutral as the statement describes a policy announcement without expressing a clear opinion.",0,
+“We welcome the UK Government’s announcement of new measures to better protect children online.”",0,1,0,3,irrelevant,neutral,0.0000,1.3401,,0,
 llama3.1:8b,2066602067826016582,"The UK’s recent social media ban for under-16s, alongside similar measures in other countries, reflects the right diagnosis but the wrong prescription.
 
-Blanket bans risk undermining children’s rights to expression and access to information, while driving intrusive",0,1,0,2,irrelevant,negative,0.9000,4.4942,"The tweet mentions minors (under-16s) and involves a digital context (social media ban), satisfying both conditions for relevance. The sentiment is negative/opposing as it argues that blanket bans risk undermining children's rights, indicating an opposing view to digital restrictions.",0,
-llama3.1:8b,2066590700859466229,"@ryangerritsen @Kirky861 This tells us all we need to know. Google a country name with ""protect children online"" and you'll see it's global.",0,0,0,0,irrelevant,irrelevant,1.0000,2.8884,"The tweet does not mention minors or involve digital context, so it is irrelevant to the topic.",1,
+Blanket bans risk undermining children’s rights to expression and access to information, while driving intrusive",0,1,0,2,irrelevant,negative,0.0000,1.3439,,0,
+llama3.1:8b,2066590700859466229,"@ryangerritsen @Kirky861 This tells us all we need to know. Google a country name with ""protect children online"" and you'll see it's global.",0,0,0,0,irrelevant,irrelevant,0.0000,1.3470,,1,
 llama3.1:8b,2066589422405947480,"🆕 Sussex Update | UK TAKES A STEP TOWARD ONLINE SAFETY
 
 A statement from Prince Harry and Meghan, Duke and Duchess of Sussex.
 
 “We welcome the UK Government’s announcement of new measures to better protect children online”
 
-🔗https://t.co/H6yVY0Gv2v,",0,1,0,1,irrelevant,positive,1.0000,3.7019,"The tweet mentions minors (children) and involves a digital context (online safety), satisfying both conditions for relevance. The sentiment is positive as it supports regulations to protect children online.",0,
-llama3.1:8b,2066588201607909799,@NadiaWhittomeMP Please feel free to look at this article which lays out why such blanket bans will bring more harms than goods and the alternative options to protect children online and tackle Big Tech enshittification. Thank you.,1,0,2,0,negative,irrelevant,1.0000,2.9166,"The tweet does not mention minors or involve a digital context, so it is irrelevant to the topic.",0,
-llama3.1:8b,2066586655851520469,"British Prime Minister Keir Starmer announces a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.",1,1,3,1,neutral,positive,1.0000,4.1760,The tweet mentions minors (those under 16) and involves a digital context (social media use). The sentiment is positive/supportive as it favors a ban on social media use for those under 16 to protect children online.,0,
+🔗https://t.co/H6yVY0Gv2v,",0,1,0,1,irrelevant,positive,0.0000,1.3308,,0,
+llama3.1:8b,2066588201607909799,@NadiaWhittomeMP Please feel free to look at this article which lays out why such blanket bans will bring more harms than goods and the alternative options to protect children online and tackle Big Tech enshittification. Thank you.,1,1,2,2,negative,negative,0.0000,1.3427,,1,
+llama3.1:8b,2066586655851520469,"British Prime Minister Keir Starmer announces a sweeping ban on social media use for those under 16, joining other countries around the world seeking to protect children online.",1,1,3,1,neutral,positive,0.0000,1.3570,,0,
 llama3.1:8b,2066573996188168412,"Not royals latest 
 
 PA: “The Duke and Duchess of Sussex have welcomed the Government’s social media ban for under-16s but warned “while measures such as these help reduce harm, they do not fix the problem at its source”.
-“We welcome the UK Government’s announcement of new",1,1,1,3,positive,neutral,0.9000,4.1176,"The tweet mentions minors (under-16s) and involves a digital context (social media ban), satisfying both conditions for relevance. The sentiment is neutral as it reports on the Government's announcement without expressing a clear opinion.",0,
+“We welcome the UK Government’s announcement of new",1,1,1,2,positive,negative,0.0000,1.3486,,0,
 llama3.1:8b,2066567179969909096,"@GuidoFawkes It means Digital ID.
 
 Govt monitoring your every move &amp; your voice being muted.
 
 Nothing to do with online safety.  
 
-The tools to protect children online, what they see, what content and apps they can use have existed for at least a decade.",1,0,2,0,negative,irrelevant,1.0000,3.2371,"The tweet does not mention minors (condition A) and instead focuses on government monitoring, digital ID, and online safety in general.",0,
+The tools to protect children online, what they see, what content and apps they can use have existed for at least a decade.",1,1,2,2,negative,negative,0.0000,1.3696,,1,
 llama3.1:8b,2066564514166755377,"🇬🇧 The UK Government has clarified that adults will still be able to use social media platforms after verifying their identity.
 
 Approved methods include digital IDs, facial recognition, passports, and credit cards. 
 
-The move is part of efforts to protect children online while",1,0,3,0,neutral,irrelevant,1.0000,2.9392,"This tweet does not mention minors or involve a digital context related to minors, so it is irrelevant.",0,
-llama3.1:8b,2066561623871918374,"@elonmusk No it’s not @elonmusk ! It’s a very good way to protect children online from things such as sexual grooming, bullying and suicide prevention. The social media platforms don’t do anywhere near enough to crack down on these things. If you don’t agree with the approach, then how",1,1,1,1,positive,positive,0.9000,3.0435,The tweet mentions 'children' and involves a digital context (social media) to protect them from online threats.,1,
-llama3.1:8b,2066553201386721360,"@elonmusk you can't spend years cutting moderation teams and rolling back safety oversight, then act shocked when governments decide they need to step in and protect children online",1,1,1,2,positive,negative,0.9000,4.6603,"The tweet mentions 'children' (condition A) and involves a digital context (social media, moderation teams, safety oversight), making it relevant. The sentiment is negative/opposing as the author criticizes Elon Musk's actions and implies that governments need to step in for child protection.",0,
+The move is part of efforts to protect children online while",1,0,3,0,neutral,irrelevant,0.0000,1.3437,,0,
+llama3.1:8b,2066561623871918374,"@elonmusk No it’s not @elonmusk ! It’s a very good way to protect children online from things such as sexual grooming, bullying and suicide prevention. The social media platforms don’t do anywhere near enough to crack down on these things. If you don’t agree with the approach, then how",1,1,1,1,positive,positive,0.0000,1.3475,,1,
+llama3.1:8b,2066553201386721360,"@elonmusk you can't spend years cutting moderation teams and rolling back safety oversight, then act shocked when governments decide they need to step in and protect children online",1,1,1,2,positive,negative,0.0000,1.3189,,0,
 llama3.1:8b,2066550380452786334,"I have rarely read so much rubbish from The Spectator.
 
-The conservative rag that it has become, coupled with the increasingly poor standard of its editorial judgement, means that articles such as this are difficult to take seriously. I suspect many Conservatives themselves will",0,0,0,0,irrelevant,irrelevant,1.0000,2.8012,"The tweet does not mention minors or involve a digital context, so it is irrelevant.",1,
+The conservative rag that it has become, coupled with the increasingly poor standard of its editorial judgement, means that articles such as this are difficult to take seriously. I suspect many Conservatives themselves will",0,0,0,0,irrelevant,irrelevant,0.0000,1.3481,,1,
